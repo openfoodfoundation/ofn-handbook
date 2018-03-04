@@ -23,18 +23,16 @@
     * [New instances support](new-instances-support.md)
     * [Global communication](global-communication.md)
     * [Fund raising](fund-raising.md)
-* Working ON the OFN: governance
+* [Working ON the OFN: governance](working-on-the-ofn-governance.md)
   * [Legal model](legal-model.md)
   * [Decision making process](decision-making-process.md)
   * [Economic model](economic-model.md)
   * [Volunteer vs paid contributors](volunteer-vs-paid-contributors.md)
   * [Onboarding process](onboarding-process.md)
-
 * Contribution spaces and tools
   * [Chat daily discussions: Slack](chat-daily-discussions-slack.md)
   * [Concertation space: community forum \(Discourse\)](concertation-space-community-forum-discourse.md)
   * [Dev and product team space: Github](dev-and-product-team-space-github.md)
   * [Documentation: Gitbook and Google Drive](documentation-gitbook-and-google-drive.md)
   * [Website: Wordpress](website-wordpress.md)
-
 
