@@ -20,6 +20,7 @@
     * [Product owner](product-owner.md)
     * [Train driver](train-driver.md)
     * [New instances support](new-instances-support.md)
+    * [Global communication](global-communication.md)
 * Working ON the OFN: governance
   * [Legal model](legal-model.md)
   * [Decision making process](decision-making-process.md)
