@@ -12,7 +12,7 @@ SO to try and become more efficient in onboarding new contributors, and enable e
 
 When a new contributor is interested by the project, **the first step is to start contributing on a volunteer basis**. The purpose of this is:
 
-* to enable the contributor to understand from inside what it is to work in OFN and see if that’s what they wants
+* to enable the contributor to understand from inside what it is to work in OFN and see if that’s what they want
 * to enable them to get to a point where they can start to create real value for the project \(which would justify being paid if they and if we can afford it\)
 * to enable the rest of the team to gauge if skills fit to what the project need, in term both of technical \(coding abilities for instance\) and social \(communication abilities\) skills. 
 
