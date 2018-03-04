@@ -13,6 +13,7 @@
     * [Fund raising](working-in-the-ofn-roles-and-tasks/at-local-level/fund-raising.md)
     * [Research](working-in-the-ofn-roles-and-tasks/at-local-level/research.md)
     * [System administration](working-in-the-ofn-roles-and-tasks/system-administration.md)
+  
   * [At global level](working-in-the-ofn-roles-and-tasks/at-global-level.md)
     * [Web development](working-in-the-ofn-roles-and-tasks/web-development.md)
     * [UX design](working-in-the-ofn-roles-and-tasks/ux-design.md)
@@ -32,5 +33,4 @@
   * [Dev and product team space: Github](dev-and-product-team-space-github.md)
   * [Documentation: Gitbook and Google Drive](documentation-gitbook-and-google-drive.md)
   * [Website: Wordpress](website-wordpress.md)
-
 
