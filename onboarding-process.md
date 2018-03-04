@@ -6,7 +6,7 @@ Contributors create value for the OFN commons, whether it be by contributing wit
 
 But we are still a small group of people and have limited capacity \(24 hours per day, and some other things we want to do in our life :-\)\) Unfortunately, we can't afford to spend a lot of time with people who are not able, after a certain period of time, to efficiently create value for the project :-\( And we can't afford either to pay those people...
 
-SO to try and become more efficient in onboarding new contributors, and enable every new potential contributor to understand what it takes to reach to a point where you will really create value, we are piloting this brand new process! The idea is to give you some steps that you can follow to try to reach to the point, if you want to, where you can be a "certified contributor" and start charging the community for your time \([under certain conditions defined here](https://www.gitbook.com/book/ofn-user-guide/ofn-contributor-guide/edit#/edit/master/volunteer-vs-paid-contributors.md?_k=ahexb1)\). Feel free to give us any feedback.
+SO to try and become more efficient in onboarding new contributors, and enable every new potential contributor to understand what it takes to reach to a point where you will really create value, we are piloting this brand new process! The idea is to give you some steps that you can follow to try to reach to the point, if you want to, where you can be a "certified contributor" and start charging the community for your time \([under certain conditions defined here](/volunteer-vs-paid-contributors.md)\). Feel free to give us any feedback.
 
 ## 1- New contributors
 
@@ -20,7 +20,7 @@ So **any new developer for instance needs to start picking some issues and commi
 
 ## 2- Certified regular contributors
 
-After that, a contributor who wants to be paid in order to be able to really invest time on the project can request to be certified. When they are, they will be able to invoice contributions \([under conditions defined here](https://www.gitbook.com/book/ofn-user-guide/ofn-contributor-guide/edit#)\).  
+After that, a contributor who wants to be paid in order to be able to really invest time on the project can request to be certified. When they are, they will be able to invoice contributions \([under conditions defined here](/volunteer-vs-paid-contributors.md)\).  
 To be certified, the contributor must meet three conditions:
 
 * **Have the technical skills required for the tasks he aims to do**
@@ -36,7 +36,7 @@ For now, the project really needs committed and engaged contributors, but on som
 
 ## 4- Process to request to be certified
 
-When you think you are meeting the requirements to be certified, you just have to **put a message on the Slack \#global-community channel with mentioning @channel and tell that would like to be certified and how much time you want to dedicate per week and be paid for, and at which rate **\([see table here](https://www.gitbook.com/book/ofn-user-guide/ofn-contributor-guide/edit#)\).
+When you think you are meeting the requirements to be certified, you just have to **put a message on the Slack \#global-community channel with mentioning @channel and tell that would like to be certified and how much time you want to dedicate per week and be paid for, and at which rate **\([see table here](/volunteer-vs-paid-contributors.md)\).
 
 The OFN global facilitators crew will then ask certified contributors who have worked with you if they think you have the profile that the community need. Also we will** need to check our global budget** if we have the money to pay for the time you expect to dedicate to the project \(you can also ask that before starting your onboarding process if that's something you want to know before starting to contribute to the project...\)
 
