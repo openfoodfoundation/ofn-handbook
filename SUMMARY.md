@@ -8,7 +8,7 @@
 * [Working IN the OFN: roles & tasks](working-in-the-ofn-roles-and-tasks.md)
   * [At local level](working-in-the-ofn-roles-and-tasks/at-local-level.md)
     * [Community building and facilitation](working-in-the-ofn-roles-and-tasks/at-local-level/community-building-and-facilitation.md)
-    * Admin and paperwork
+    * [Admin and paperwork](working-in-the-ofn-roles-and-tasks/at-local-level/admin-and-paperwork.md)
     * [User support](working-in-the-ofn-roles-and-tasks/at-local-level/user-support.md)
     * [Communication](working-in-the-ofn-roles-and-tasks/at-local-level/communication.md)
     * [Fund raising](working-in-the-ofn-roles-and-tasks/at-local-level/fund-raising.md)
@@ -33,5 +33,4 @@
   * [Dev and product team space: Github](dev-and-product-team-space-github.md)
   * [Documentation: Gitbook and Google Drive](documentation-gitbook-and-google-drive.md)
   * [Website: Wordpress](website-wordpress.md)
-
 
