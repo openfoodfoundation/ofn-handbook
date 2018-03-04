@@ -27,8 +27,8 @@
   * [Legal model](legal-model.md)
   * [Decision making process](decision-making-process.md)
   * [Economic model](economic-model.md)
-  * [Global rates table](volunteer-vs-paid-contributors.md)
   * [Onboarding process](onboarding-process.md)
+  * [Global rates table](volunteer-vs-paid-contributors.md)
 * Contribution spaces and tools
   * [Chat daily discussions: Slack](chat-daily-discussions-slack.md)
   * [Concertation space: community forum \(Discourse\)](concertation-space-community-forum-discourse.md)
