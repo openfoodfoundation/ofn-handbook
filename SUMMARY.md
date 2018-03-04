@@ -17,6 +17,8 @@
     * [Web development](working-in-the-ofn-roles-and-tasks/web-development.md)
     * [UX design](working-in-the-ofn-roles-and-tasks/ux-design.md)
     * [Testing](working-in-the-ofn-roles-and-tasks/testing.md)
+    * [Product owner](product-owner.md)
+    * [Train driver](train-driver.md)
 * Working ON the OFN: governance
   * [Legal model](legal-model.md)
   * [Decision making process](decision-making-process.md)
@@ -28,4 +30,5 @@
   * [Dev and product team space: Github](dev-and-product-team-space-github.md)
   * [Documentation: Gitbook and Google Drive](documentation-gitbook-and-google-drive.md)
   * [Website: Wordpress](website-wordpress.md)
+
 
