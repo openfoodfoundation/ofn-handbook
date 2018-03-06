@@ -25,8 +25,13 @@ To be certified, the contributor must meet three conditions:
 
 * **Have the technical skills required for the tasks he aims to do**
   In order to make sure that they deliver real value for the time paid for. The other certified contributors working on the same field can gauge that based on the first contributions of the certification applicant. If they think some important tech skills are missing, they can orient the contributor to some Github issues, or tasks, where they will be able to learn the missing crucial skills. We also highly encourage developers to do code review on PR they didn't commit themselves.
+
 * **Have the communication skills required**
   In order to make sure that no paid time is spent in inefficiencies due to lack of communication, and ensure a global consistency of the team and processes. That means he has to be part of the Slack conversations in the appropriate channels \(\#dev for instance for developers\), reply to questions on Github in a reasonable set of time, give feedbacks and review to other contributors, ask questions as soon as something is not clear to get a consent from other contributors on how to solve an issue, participate to speccing sessions, etc.
+
+* **Have a functional understanding of the platform, knowing the main use cases**
+  In order to make sure no time is lost due to lack of understanding and best approach is adopted.
+
 * **Dedicate at least one full day per week on the project**
   In order to make sure that the certified contributors are committed and engaged, and that if they take an issue /task they are going to deliver quickly and don’t block the processes. It doesn’t have to be every week the same day, and can be like 2 half days for instance.
 
