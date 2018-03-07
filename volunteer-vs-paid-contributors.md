@@ -15,5 +15,5 @@ The philosophy behind the value redistribution process is that the value generat
 
 So here is the table we came up with as a first iteration. We know the rates are not very high, but it's a start and it's already great that we collectively manage to get resources to pay some very engaged contributors! if you have any improvement suggestion, or if you feel you are in a specific situation that you want to discuss, please contact us.
 
-![](/assets/Screenshot from 2018-01-23 05-50-13.png)
+![](/assets/Screenshot from 2018-03-07 11-18-27.png)
 
