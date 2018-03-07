@@ -17,3 +17,5 @@ So here is the table we came up with as a first iteration. We know the rates are
 
 ![](/assets/Screenshot from 2018-03-07 11-18-27.png)
 
+\(Those rates are all tax inclusive, this is what should be invoiced per hour, no matter if it's a freelancer who invoices, or another legal entity.\)
+
