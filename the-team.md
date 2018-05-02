@@ -15,7 +15,7 @@ Here is the list of the main OFN global certified contributors:
 - Nick \(UK / PO + community facilitator\)  
 - Kirsten \(Australia / PO + community facilitator\)  
 - Serenity \(Australia / community facilitator\)  
-- Theresa \(Australia / PO + community facilitator\)  
+- Theresa \(Canada / PO + community facilitator\)  
 - Sally \(Australia / tester + global communication\)  
 - Myriam \(France / community facilitator + train driver + PO + tester\)  
 - Rachel \(France / train driver + PO + UX + tester\)  
