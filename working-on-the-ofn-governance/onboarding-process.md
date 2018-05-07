@@ -34,9 +34,9 @@ For now, the project really needs committed and engaged contributors, but on som
 
 ## 4- Process to request to be certified
 
-When you think you are meeting the requirements to be certified, you just have to **put a message on the Slack \#global-community channel with mentioning @channel and tell that would like to be certified and how much time you want to dedicate per week and be paid for, and at which rate **\([see table here](global-rates-table.md)\).
+When you think you are meeting the requirements to be certified, you just have to **send a message to either @myriam or @kirsten \(or other OFN facilitator\) on Slack or via email and tell that would like to be certified and how much time you want to dedicate per week and be paid for, and at which rate **\([see table here](global-rates-table.md)\).
 
-The OFN global facilitators crew will then ask certified contributors who have worked with you if they think you have the profile that the community need. Also we will** need to check our global budget** if we have the money to pay for the time you expect to dedicate to the project \(you can also ask that before starting your onboarding process if that's something you want to know before starting to contribute to the project...\)
+They will then ask certified contributors who have worked with you if they think you have the profile that the community need. Also we will** need to check our global budget** if we have the money to pay for the time you expect to dedicate to the project \(you can also ask that before starting your onboarding process if that's something you want to know before starting to contribute to the project...\)
 
 If all is green, you will join the certified contributors crew :-\)
 
