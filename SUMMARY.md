@@ -27,7 +27,7 @@
 * [Working ON the OFN: governance](working-on-the-ofn-governance/README.md)
   * [Legal model](working-on-the-ofn-governance/legal-model.md)
   * [Decision making process](working-on-the-ofn-governance/decision-making-process.md)
-  * [How do we prioritize new developments?](working-on-the-ofn-governance/How-do-we-prioritize-new-developments?.md)
+  * [How do we prioritize new developments](working-on-the-ofn-governance/how-do-we-prioritize-new-developments.md)
   * [Economic model](working-on-the-ofn-governance/economic-model.md)
   * [Onboarding process](working-on-the-ofn-governance/onboarding-process.md)
   * [Global rates table](working-on-the-ofn-governance/global-rates-table.md)
