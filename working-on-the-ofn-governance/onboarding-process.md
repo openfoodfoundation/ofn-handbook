@@ -30,13 +30,13 @@ To be certified, the contributor must meet three conditions:
 
 ## 3- Certified occasional contributors
 
-For now, the project really needs committed and engaged contributors, but on some issues occasional contributions can also help to make things move faster. So in case this is needed, contributors who have **both the tech and communication skills **but can’t commit to a regular contribution basis can request to be certified as occasional contributors and be paid for their contributions. In that case, **they will be offered by the global product team to take some specific issues **and will be paid for those contributions. Any other contribution they make on their own initiative will be considered as volunteer contributions.
+For now, the project really needs committed and engaged contributors, but on some issues occasional contributions can also help to make things move faster. So in case this is needed, contributors who have **both the tech and communication skills** but can’t commit to a regular contribution basis can request to be certified as occasional contributors and be paid for their contributions. In that case, **they will be offered by the global product team to take some specific issues** and will be paid for those contributions. Any other contribution they make on their own initiative will be considered as volunteer contributions.
 
 ## 4- Process to request to be certified
 
-When you think you are meeting the requirements to be certified, you just have to **send a message to either @myriam or @kirsten \(or other OFN facilitator\) on Slack or via email and tell that would like to be certified and how much time you want to dedicate per week and be paid for, and at which rate **\([see table here](global-rates-table.md)\).
+When you think you are meeting the requirements to be certified, you just have to **send a message to either @myriam or @kirsten \(or other OFN facilitator\) on Slack or via email and tell that would like to be certified and how much time you want to dedicate per week and be paid for, and at which rate** \([see table here](global-rates-table.md)\).
 
-They will then ask certified contributors who have worked with you if they think you have the profile that the community need. Also we will** need to check our global budget** if we have the money to pay for the time you expect to dedicate to the project \(you can also ask that before starting your onboarding process if that's something you want to know before starting to contribute to the project...\)
+They will then ask certified contributors who have worked with you if they think you have the profile that the community need. Also we will **need to check our global budget** if we have the money to pay for the time you expect to dedicate to the project \(you can also ask that before starting your onboarding process if that's something you want to know before starting to contribute to the project...\)
 
 If all is green, you will join the certified contributors crew :-\)
 

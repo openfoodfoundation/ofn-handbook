@@ -11,6 +11,7 @@ Here is the list of the main OFN global certified contributors:
 - Pau \(Catalunya / developer + sys admin + community facilitator\)  
 - Matt \(UK / developer\)  
 - Hugo \(France / developer\)  
+- Luis \(Portugal / developer\)  
 - Lynne \(UK / PO + sys admin\)  
 - Nick \(UK / PO + community facilitator\)  
 - Kirsten \(Australia / PO + community facilitator\)  

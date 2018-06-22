@@ -31,7 +31,7 @@
   * [Economic model](working-on-the-ofn-governance/economic-model.md)
   * [Onboarding process](working-on-the-ofn-governance/onboarding-process.md)
   * [Global rates table](working-on-the-ofn-governance/global-rates-table.md)
-* Contribution spaces and tools
+* [Contribution spaces and tools](contribution-spaces-and-tools/README.md)
   * [Chat daily discussions: Slack](contribution-spaces-and-tools/chat-daily-discussions-slack.md)
   * [Concertation space: community forum \(Discourse\)](contribution-spaces-and-tools/concertation-space-community-forum-discourse.md)
   * [Dev and product team space: Github](contribution-spaces-and-tools/dev-and-product-team-space-github.md)
