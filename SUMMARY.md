@@ -29,6 +29,7 @@
   * [Decision making process](working-on-the-ofn-governance/decision-making-process.md)
   * [How do we prioritize new developments](working-on-the-ofn-governance/how-do-we-prioritize-new-developments/README.md)
     * [Record needs expressed by users](working-on-the-ofn-governance/how-do-we-prioritize-new-developments/new-features-requests-and-listing.md)
+    * [Prioritize the needs we are going to address first](working-on-the-ofn-governance/how-do-we-prioritize-new-developments/prioritize-the-needs-we-are-going-to-address-first.md)
   * [Economic model](working-on-the-ofn-governance/economic-model.md)
   * [Onboarding process](working-on-the-ofn-governance/onboarding-process.md)
   * [Global rates table](working-on-the-ofn-governance/global-rates-table.md)
