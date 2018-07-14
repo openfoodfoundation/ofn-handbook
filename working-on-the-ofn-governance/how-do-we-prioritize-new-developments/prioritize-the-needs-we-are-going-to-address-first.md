@@ -8,7 +8,7 @@ We regularly have people opening issues on Github saying they are bug, but in fa
 
 ### **2- What to do if you identify a bug?**
 
-Open an issue on Github. When you create an issue, you will see a default template guiding you to report that bug. We have worked on a [five level priority list](https://github.com/openfoodfoundation/openfoodnetwork/wiki/Bug-severity), please always affect a priority level to a bug, that will help us curate them!
+Open an issue on Github. When you create an issue, you will see a default template guiding you to report that bug. We have worked on a [five level priority list](https://github.com/openfoodfoundation/openfoodnetwork/wiki/Bug-severity), please always affect a priority level to a bug, that will help us curate them! Please add the issue to the project called "bug management".
 
 ### **3- How do we curate bugs?**
 

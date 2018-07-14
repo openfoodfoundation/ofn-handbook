@@ -2,13 +2,13 @@
 
 When we have this TOP10 needs identified, we need to organize brainstormings about the potential solutions that could enable us to satisfy the top prioritized needs.
 
-**Every need will be assigned to a "product owner" and a "tech owner"**. They are responsible to organize the inception process, that will go through the following steps. You can see the[ corresponding template here.](https://docs.google.com/document/d/1n6vvwH3KAyx839Q_sfW6sW3Cs49ZjFBqi8Nzatmg7As/edit?usp=sharing)
+**Every need will be assigned to a "product owner" and a "tech owner"**. They are responsible to organize the solution discovery and inception process, that will go through the following steps. You can see the[ corresponding template here.](https://docs.google.com/document/d/1n6vvwH3KAyx839Q_sfW6sW3Cs49ZjFBqi8Nzatmg7As/edit?usp=sharing)
 
 ### 1- Brainstorm potential solutions to meet the need
 
 That means listing all the possible solutions to answer the need. Those potential solutions are called **"feature candidates"**.
 
-### 2- Choose our prefered solution
+### 2- Choose our preferred solution
 
 For each potential solution, we evaluate the easyness level and value level, and map the feature candidates in a **value/ease matrix.**
 
@@ -26,5 +26,5 @@ The product owner of the feature is in charge of **communicating all that work b
 
 The product owner might want at that stage to **open a dedicated project board** to be able to follow the implementation process of that specific feature.
 
-When we have this story map, the train drivers will feed the delivery pipeline with new issues picking them in those story maps, in order to make sure the features are released as quickly and efficiently as possible.
+When we have this story map, the product owner will feed the delivery pipeline with new issues picking them in those story maps, in order to make sure the features are released as quickly and efficiently as possible.
 
