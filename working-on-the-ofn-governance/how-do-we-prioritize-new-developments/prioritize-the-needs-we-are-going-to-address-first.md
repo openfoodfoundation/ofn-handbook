@@ -1,16 +1,20 @@
-# Prioritize the needs we are going to address first
+# Report and curate bugs
 
-Lots of OFN users in different countries express different needs. So how to decide which need we address first?
+There is no software without bugs. We just need a process to report and fix bugs efficiently. Not all bugs are equivalent, some really prevent the use of the platform and should be addressed as soon as possible. Others are small bugs that are not really annoying, we can live with them, users may not even have noticed them.
 
-**1- Short term process**
+### **1- What is a bug?**
 
-Each instance will have their way to discuss with their users and decide together with them what are the top priorities for that instance. So every quarter, every instance will have to list the 10 top priority needs they would like the OFN to cover, ordered from the most important to the less important.
+We regularly have people opening issues on Github saying they are bug, but in fact they talk about a new feature not yet implemented. Bugs are only gaps between how a feature is supposed to work ALREADY, and how it works ACTUALLY.
 
-As every instance do that, we then need to decide among all those priority needs which one we all agree to start with. Every quarter at a minimum, and upon request if needs be, the curation team will host a "pitching session" where every instance representative is invited. Participants to that session will be invited to propose what should be priority 1 and why, until one proposition get the consent of all participants. We then do the same for priority 2, etc. until priority 10. The idea is that we always have a TOP10 priority list.
+### **2- What to do if you identify a bug?**
 
-This process needs to be adaptative, so at least we do that every quarter, but if something important happen and might result in modifying this priority list, any instance representative can launch again a priorization process with instance top 10 listing and pitching.
+Open an issue on Github. When you create an issue, you will see a default template guiding you to report that bug. We have worked on a [five level priority list](https://github.com/openfoodfoundation/openfoodnetwork/wiki/Bug-severity), please always affect a priority level to a bug, that will help us curate them!
 
-**2- Longer term possibilities**
+### **3- How do we curate bugs?**
 
-On a longer term we might use a tool that woudl enable users to directly vote on their most important pain point so they would need anymore an instance representative to convey their priorities in a global curation process.
+The train drivers of the OFN will treat the new bugs the following way:  
+a- Every new bug is added to the project board "[Bug management](https://github.com/openfoodfoundation/openfoodnetwork/projects/23)", in the backlog column.  
+b- The train driver will make sure the solution is clear enough. If an inception is needed to clarify the job to be done, they will place it in the "inception column". Else they will put it to the dev ready column and order them by severity and within a same severity level, by priority.  
+c- They will make sure there are always the 3-4 top priority bugs in the "deav ready column" of the delivery pipeline so that developers know they can pick them up.  
+d- For s1 or s2 bugs, as soon as the bug is reported, they will add a mesage on the \#dev channel on Slack to make sure the first developer available work on it as soon as possible.
 
