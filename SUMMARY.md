@@ -36,6 +36,7 @@
   * [Team organization](working-on-the-ofn-governance/team-organization/README.md)
     * [Onboarding process](working-on-the-ofn-governance/team-organization/onboarding-process.md)
     * [Mastering levels and associated rates](working-on-the-ofn-governance/team-organization/global-rates-table.md)
+    * [Exit process](working-on-the-ofn-governance/team-organization/exit-process.md)
 * [Contribution spaces and tools](contribution-spaces-and-tools/README.md)
   * [Chat daily discussions: Slack](contribution-spaces-and-tools/chat-daily-discussions-slack.md)
   * [Concertation space: community forum \(Discourse\)](contribution-spaces-and-tools/concertation-space-community-forum-discourse.md)
