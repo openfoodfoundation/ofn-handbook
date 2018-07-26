@@ -1,4 +1,4 @@
-# Global rates table
+# Mastering levels and associated rates
 
 As explained in the [onboarding process](onboarding-process.md) contributors need to be certified before they can be paid for their contributions.
 
@@ -6,7 +6,11 @@ The philosophy behind the value redistribution process is that the value generat
 
 * **the difference of value created by an OFN junior or senior contributor in one hour**
 
-  For that we are inspired by the Japanese “ShuHaRi” experience level system. “Shu” is a beginner, “Ha” intermediate and “Ri” master. Those are levels in mastering an art. It seems fair that a “Shu” is not paid as much as a “Ri” as with the same time spent, a “Ri” will create more value for the project than a “Shu”.
+  For that we are inspired by the Japanese “ShuHaRi” experience level system. “Shu” is a beginner, “Ha” intermediate and “Ri” master. Those are levels in mastering an art. It seems fair that a “Shu” is not paid as much as a “Ri” as with the same time spent, a “Ri” will create more value for the project than a “Shu”.  
+  In OFN, we consider that:  
+  - a "Ri" contributor has over 3 years of experience in his domain and over 6 months in OFN  
+  - a "Shu" meet none of those 2 criteria  
+  - a "Ha" meets one of those 2 criteria
 
 * **the cost of living of contributors**  
   It is not fair that a contributor who lives in a very expensive city is paid the same as a contributor working in a small countryside where rents are much cheaper for instance. Or contributors in India and Australia.
