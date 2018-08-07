@@ -9,7 +9,7 @@ In order to feed the delivery pipe to ensure the sustainability and maintainabil
 
 **The role of this curation team is to decide what enters the pipeline for the quarter to come**:  
 - what tech debt do we need to fix?   
-- among the TOP10 needs how many do we feed into the delivery pipe?  
+- among the selected feature candidates in the product backlog, that comes from the brainstorming done on TOP10 priority needs, how many do we feed into the delivery pipe?  
 - what bugs do we put as dev ready for occasional/new developers?
 
 Train drivers are then in charge of making the plan happen!
