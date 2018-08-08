@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Introduction](README.md)
-* [Who are we](who-are-we.md)
+* [What is the OFN in brief?](who-are-we.md)
 * [Context](context.md)
 * [Vision, mission, activities](vision-mission-activities.md)
 * [Our values](our-values.md)

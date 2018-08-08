@@ -25,8 +25,7 @@ Here is the list of the main OFN global certified contributors:
 - Cynthia \(Norway / PO\)  
 - Sigmund \(Norway / ?\)  
 **Certified occasional contributors:**  
-- Steve \(UK / developer\)  
-- Keir \(UK / developer\)
+- Steve \(UK / developer\)
 
 Feel free to contact them on [Slack](https://openfoodnetwork.slack.com) or through the [community forum](https://community.openfoodnetwork.org)!
 
