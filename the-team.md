@@ -5,9 +5,7 @@ As we explain later in this guidebook, people can contribute on the local level 
 Here is the list of the main OFN global certified contributors:
 
 **Certified regular contributors:**  
-- Rob \(Australia / developer + sys admin\)  
 - Maikel \(Australia / developer + sys admin\)  
-- Enrico \(Catalunya / developer + sys admin + community facilitator\)  
 - Pau \(Catalunya / developer + sys admin + community facilitator\)  
 - Matt \(UK / developer\)  
 - Hugo \(France / developer\)  
@@ -25,6 +23,8 @@ Here is the list of the main OFN global certified contributors:
 - Cynthia \(Norway / PO\)  
 - Sigmund \(Norway / ?\)  
 **Certified occasional contributors:**  
+- Rob \(Australia / developer + sys admin\)  
+- Enrico \(Catalunya / developer + sys admin + community facilitator\)  
 - Steve \(UK / developer\)
 
 Feel free to contact them on [Slack](https://openfoodnetwork.slack.com) or through the [community forum](https://community.openfoodnetwork.org)!
