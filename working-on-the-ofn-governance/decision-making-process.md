@@ -10,7 +10,7 @@ How do we take collectively decisions in a Distributed Collaborative Organizatio
 - Decisions about projects we might want to build together...
 
 The decisions regarding the OFN software improvement follow a specific process described [here](https://ofn-user-guide.gitbook.io/ofn-contributor-guide/~/drafts/-LJOxw66B48qshQ8IeVo/primary/working-on-the-ofn-governance/how-do-we-prioritize-new-developments).  
-The ones regarding who joins the certified contributor team is explained in our onboarding process.
+The ones regarding who joins the certified contributor team is explained in our [onboarding process](https://ofn-user-guide.gitbook.io/ofn-contributor-guide/working-on-the-ofn-governance/team-organization/onboarding-process).
 
 For all the other decisions, the **usual decision making process is**:  
 - we open a thread on our [community forum](https://community.openfoodnetwork.org/) to make a proposal to evolve a process, or about a new project or idea for the future, so people can contribute and react  
