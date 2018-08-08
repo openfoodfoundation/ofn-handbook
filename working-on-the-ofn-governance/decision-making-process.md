@@ -9,7 +9,7 @@ How do we take collectively decisions in a Distributed Collaborative Organizatio
 - Decisions about new affiliates joining the network  
 - Decisions about projects we might want to build together...
 
-The decisions regarding the OFN software improvement follow a specific process described [here](https://ofn-user-guide.gitbook.io/ofn-contributor-guide/~/drafts/-LJOxw66B48qshQ8IeVo/primary/working-on-the-ofn-governance/how-do-we-prioritize-new-developments).  
+The decisions regarding the OFN software improvement follow a specific process described [here](https://ofn-user-guide.gitbook.io/ofn-contributor-guide/working-on-the-ofn-governance/how-do-we-prioritize-new-developments).  
 The ones regarding who joins the certified contributor team is explained in our [onboarding process](https://ofn-user-guide.gitbook.io/ofn-contributor-guide/working-on-the-ofn-governance/team-organization/onboarding-process).
 
 For all the other decisions, the **usual decision making process is**:  
