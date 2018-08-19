@@ -1,6 +1,6 @@
 # Onboarding process
 
-OFN is a community with contributors in different countries, who work as peers, without any hierarchical relationship. Bu default, the organization is "liquid", people can join and start contributing, some contribute a little bit for a very short time, some really commit and for them OFN becomes their main daily occupation.
+OFN is a community with contributors in different countries, who work as peers, without any hierarchical relationship. By default, the organization is "liquid", people can join and start contributing, some contribute a little bit for a very short time, some really commit and for them OFN becomes their main daily occupation.
 
 Contributors create value for the OFN commons, whether it be by contributing with pieces of code, with communication initiative, or with fund raising. The logic we aim to achieve is to be able as a community to retribute the contributors for the value they bring to the community. But before creating value, a new contributor most of the time needs support. The supporters create value for the community by helping out newcomers of course, and we are all happy to invest in the development of the community.
 
