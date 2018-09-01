@@ -1,19 +1,53 @@
 # Exit process
 
-As contributors can become certified, join the Core Team, and start getting paid for their contributions, if they don't play by the collaboratively admitted rules, they will step out from the Core Team and stop being paid for their contributions.
+It’s important for team cohesion and the effective running of the software project that paid contributors meet the requirements they originally pledged to fulfil \[add link when ready\].
 
-This can happen under the following circumstances:  
-- **the contributor did commit to dedicate a certain amount of time, but doesn't meet their commitment and doesn't notify the rest of the team**. Because of that, the project move slower than expected, which put the project at risk.  
-- **there is a tension due to lack of communication that really prevents the team to work together efficiently**. That prevents the team from being efficient. That apply to occasional contributors as well.  
-- **there is a technical lack of skills in the contributor's domain that we didn't see during the certification process**, and the contributions of that contributors doesn't really create any value for the OFN. We can't afford to pay for contributors who don't create any value. That apply to occasional contributors as well.
+We understand that sometimes life throws things at you that can impact on your contribution, and as a team we will support you through such times. However, if contributors consistently fail to meet the requirements of the paid role then a process will be undertaken to either help them improve, or to exit them from the team.
 
-## How do we moderate the exit process?
+In this process, as in everything else, the Core Team will always work in a caring, empathetic way. However, we also have to recognise that sometimes, due to many different reasons, individuals don’t fit into the Core Team and there has to be a clear and effective way of dealing with this scenario when it does arise.
 
-There are two ways that can happen:  
-- **either the contributor step out themselves** as they realize they don't do the job properly, or don't manage to work on a regular basis as they expected.  
-- **either they don't, and then it is the responsability of another Core Team member to notify the other Core Team members about the tension they feel with that specific contributor.** That will generally be done via a private Slach channel. Discussions can happen until we reach a lazy consent about an exclusion of the contributor from the certified team, or from the Core Team. An exclusion from the certified team means the contributor can't invoice anymore any contribution. An exclusion from the Core Team means the contributor can still invoice occasional contributions, and can ask again to join the Core Team if they can work again on a regulard basis.
+## Common reasons a contributor loses their certification
 
-## I am certified and part of the Core Team, what if I just can't work anymore on a regular basis on OFN?
+The following circumstances have led to contributors being removed from the Core Team. It’s worth noting that it is usually a combination of these that has triggered the removal process in the past.
 
-The contributor can themselves step back of being part of the Core Team if they see they can't work on a regular basis on OFN anymore. They will then automatically be considered as "Certificied occasional contributors". They can still do some work for the OFN, but only on punctual things that the global team has offered for occasional contributors to work on. If their life circumstances change again and they can commit again to work at least 1 day per week on the OFN, they need to apply to become again a "certified regular contributor" as the global team need to check if budget allows to pay them for the time they want to commit in the months to come.
+### Lack of communication
+
+This is the problem with the greatest impact on the team and also on the project. When a contributor does not proactively communicate with the rest of the team then we see the following problems:
+
+* In the case where a contributor doesn’t communicate working less hours than expected \(or disappearing for chunks of time\), timelines are impacted. We can’t plan and track progress on features being developed, or amount of work being done.
+* Technical decisions are made in isolation, without consensus from the team, and rework is often required which costs the project.
+* The team can’t work together effectively, there are “lone wolves” rather than a strong pack working collectively.
+* It’s worth noting that this is a problem with occasional contributors as well. Which makes it even more important for the core team to demonstrate the communication behaviours expected as part of the OFN team.
+
+### Lack of time dedicated to the project
+
+The project requires contributors to fulfil the hours they have committed to, in order to deliver features and improvements and better meet the needs of users. When a contributor consistently works much less than they have committed then the delivery pipe isn’t as wide as it should be, deliverables are delivered later, and planned spend for the month is not met.
+
+### Lack of technical skills
+
+Very occasionally we find that the certification process has not been adequate enough to determine a contributor’s skills in their particular domain, and the contributor lacks the ability to create value for the project. This takes into account the fact that we have contribution levels, where people join the team as beginners through to seniors. However, if improvement is not evident as time goes on then the project unfortunately can’t afford to continue supporting their growth.
+
+## Contributor change or exit process
+
+### Identifying there is a problem
+
+As the team works together on the project, problems with a contributor’s commitment generally become obvious quite quickly. It is the responsibility of the senior Core Team members to talk to this contributor, to try and understand what is causing the problems and whether assistance can be provided to help them step back up into the role.
+
+At this point in time the contributor has a choice to work with the team and improve their contribution. Hopefully this process removes the problem and the contributor begins to fulfill the role.
+
+### Stepping back from Core Team to be an occasional contributor
+
+When life does throw something at a contributor that impacts on their ability to dedicate enough time to the project, then they can voluntarily step back to be an occasional contributor. They are still certified, and paid for their contribution, however they are limited to working on smaller things that don’t require a timely or quick turnaround and are assigned by members of the Core Team.
+
+If their circumstances change again and they can recommit to more time on the project then they can request to rejoin the team as a regular contributor and be included if/when budget is available for them.
+
+### Exiting a contributor
+
+If the contributor does not improve sufficiently after the problem has been identified, then this triggers the exit process.
+
+The contributor can choose to leave the team, if they don’t believe they can fulfil the requirements of the role moving forward.
+
+Otherwise, the Core Team will determine based on the problems being experienced whether the contributor will changed to be an occasional contributor, or will lose their certification completely and no longer be paid by the project. This decision will be based on lazy consent within the Core Team.
+
+If exited, a senior member of the Core Team will notify the contributor of the decision that has been made, and their removal from the team. The contributor will be required to submit their final invoice for the work done to that point, after which they will no longer be a paid OFN contributor.
 

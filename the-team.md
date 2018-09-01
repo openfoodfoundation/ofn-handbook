@@ -20,8 +20,8 @@ Here is the list of the main OFN global certified contributors:
 - Rachel \(France / train driver + PO + UX + tester\)  
 - Danielle \(Australia / community facilitator + train driver + global communication\)  
 - Jen \(Australia / global communication\)  
-- Cynthia \(Norway / PO\)  
-- Sigmund \(Norway / ?\)  
+- Sigmund \(Norway / workflow reviewer and curator\)  
+- Kristina \(The Philipins / developer\)  
 **Certified occasional contributors:**  
 - Rob \(Australia / developer + sys admin\)  
 - Enrico \(Catalunya / developer + sys admin + community facilitator\)  
