@@ -47,7 +47,7 @@ If the contributor does not improve sufficiently after the problem has been iden
 
 The contributor can choose to leave the team, if they don’t believe they can fulfil the requirements of the role moving forward.
 
-Otherwise, the Core Team will determine based on the problems being experienced whether the contributor will changed to be an occasional contributor, or will lose their certification completely and no longer be paid by the project. This decision will be based on lazy consent within the Core Team.
+Otherwise, the Core Team will determine based on the problems being experienced whether the contributor will change status to be a certified occasional contributor, or will lose their certification completely and no longer be paid by the project. This decision will be based on lazy consent within the Core Team.
 
 If exited, a senior member of the Core Team will notify the contributor of the decision that has been made, and their removal from the team. The contributor will be required to submit their final invoice for the work done to that point, after which they will no longer be a paid OFN contributor.
 
