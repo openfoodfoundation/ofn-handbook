@@ -35,7 +35,7 @@ As the team works together on the project, problems with a contributor’s commi
 
 At this point in time the contributor has a choice to work with the team and improve their contribution. Hopefully this process removes the problem and the contributor begins to fulfill the role.
 
-### Stepping back from Core Team to be an occasional contributor
+### Stepping back from Core Team to go back to certified occasional contributor
 
 When life does throw something at a contributor that impacts on their ability to dedicate enough time to the project, then they can voluntarily step back to be an occasional contributor. They are still certified, and paid for their contribution, however they are limited to working on smaller things that don’t require a timely or quick turnaround and are assigned by members of the Core Team.
 
