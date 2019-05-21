@@ -4,28 +4,30 @@ As we explain later in this guidebook, people can contribute on the local level 
 
 Here is the list of the main OFN global certified contributors:
 
-**Certified regular contributors:**  
-- Maikel \(Australia / developer + sys admin\)  
-- Pau \(Catalunya / developer + sys admin + community facilitator\)  
-- Matt \(UK / developer + sys admin\)  
-- Hugo \(France / developer\)  
-- Luis \(Portugal / developer\)  
-- Lynne \(UK / PO + sys admin\)  
-- Nick \(UK / PO + community facilitator\)  
-- Kirsten \(Australia / PO + community facilitator\)  
-- Serenity \(Australia / community facilitator\)  
-- Theresa \(Canada / PO + community facilitator\)  
-- Sally \(Australia / tester + global communication\)  
-- Myriam \(France / community facilitator + train driver + PO + tester\)  
-- Rachel \(France / train driver + PO + UX + tester\)  
-- Danielle \(Australia / community facilitator + train driver + global communication\)  
-- Jen \(Australia / global communication\)  
-- Sigmund \(Norway / workflow reviewer and curator\)  
-- Kristina \(Philippines / developer\)  
+**Certified regular contributors:**
+
+* Maikel \(Australia / developer + sys admin\)  
+* Pau \(Catalunya / developer + sys admin + community facilitator\)  
+* Matt \(UK / developer + sys admin\)  
+* Luis \(Portugal / developer\)  
+* Lynne \(UK / PO + sys admin\)  
+* Nick \(UK / PO + community facilitator\)  
+* Kirsten \(Australia / PO + community facilitator\)  
+* Serenity \(Australia / community facilitator + sector development\)  
+* Theresa \(Canada / community facilitator + sector development\)   
+* Myriam \(France / community facilitator + PO + sector development\)  
+* Rachel \(France / train driver + PO + UX + tester\)  
+* Danielle \(Australia / community facilitator + train driver + global communication\)  
+* Jen \(Australia / global communication + sector development\)  
+* Sigmund \(Norway / workflow reviewer and curator\)  
+* Kristina \(Philippines / developer\)  
+* Laurie \(The USA / community facilitator\)
+
 **Certified occasional contributors:**  
-- Rob \(Australia / developer + sys admin\)  
-- Enrico \(Catalunya / developer + sys admin + community facilitator\)  
-- Steve \(UK / developer\)
+
+* Rob \(Australia / developer + sys admin\)  
+* Enrico \(Catalunya / developer + sys admin + community facilitator\)  
+* Steve \(UK / developer\)
 
 Feel free to contact them on [Slack](https://openfoodnetwork.slack.com) or through the [community forum](https://community.openfoodnetwork.org)!
 

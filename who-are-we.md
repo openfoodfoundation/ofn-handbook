@@ -1,8 +1,14 @@
 # What is the OFN in brief?
 
-Open Food Network \(OFN\) is a collaborative global network of local non-profit organisations who codevelop open source software and make it available to food hubs worldwide through localized online platforms \(like [OFN UK](https://openfoodnetwork.org.uk/), [OFN Australia](http://openfoodnetwork.org.au/), [Open Food France](http://openfoodfrance.org/), [Katuma](http://katuma.org/) , [OFN Canada](https://openfoodnetwork.ca/), etc.\). The mission of this community is to build a shared digital infrastructure \(and shared knowledge\) to enable short food chain operators to manage their activities, cooperate more efficiently, and build food sovereignty. Just as consumers and producers come together to create food hubs, in OFN food hubs come together to create digital infrastructure and share the use of it.
+Open Food Network \(OFN\) is a collaborative global network of local non-for-profit organisations who codevelop open source software and knowledge, and make it available to food hubs worldwide through localized online platforms \(like [OFN UK](https://openfoodnetwork.org.uk/), [OFN Australia](http://openfoodnetwork.org.au/), [Open Food France](http://openfoodfrance.org/), [Katuma](http://katuma.org/) , [OFN Canada](https://openfoodnetwork.ca/), etc.\) and communities. 
 
-In practice, the platform enables producers to manage their product catalogue and share them with multiple distributors \(food hubs\). Hubs can connect with one or multiple producers to list their products in a shop and organize collective sales, and get aggregated data to organize logistics and fulfil bulk or individual orders.
+The mission of this community is to build shared digital infrastructure and shared knowledge to enable short food chain operators to manage their activities, cooperate more efficiently, and build food sovereignty. Just as consumers and producers come together to create food hubs, in OFN food hubs come together to create digital infrastructure and share the use of it. We could talk about "Community Supported Software" and "Community Supported Knowledge".
+
+## The OFN products
+
+### The OFN software
+
+In practice, the software and platforms deployed with this software enables producers to manage their product catalogue and share them with multiple distributors \(food hubs\). Hubs can connect with one or multiple producers to list their products in a shop and organize collective sales, and get aggregated data to organize logistics and fulfil bulk or individual orders.
 
 In OFN, a hub can be many different things, including:  
 - a producer selling directly to consumers through an online shop  
@@ -10,4 +16,19 @@ In OFN, a hub can be many different things, including:
 - an entrepreneur sourcing food from local/organic producers and organizing sales to individuals, groups, restaurants, retailers
 
 The platform also enables networking and marketing features, like the possibility to create a ‘group’ with producers and hubs of a specific ecosystem displayed on a map, as the[ Biodynamic Association in UK](https://www.biodynamic.org.uk/where-to-buy/) did.
+
+### Sector development products
+
+The OFN community is in contact everyday with lots of food hubs, organized around diverse operationnal, economics, logistics models. And food hubs need more than just a software tool to be efficient, and replicate. So we are building various products to support the development of the local and regenerative food sector : 
+
+* article, reports and other deliverable from research programs and food system analysis
+* trainings material
+* marketing tools and guidelines
+* support materials and guidelines for existing food hubs and social entrepreneurs
+
+## The OFN services
+
+All those products are open source, but as a community, we propose services around those various products, through local democratically run multistakeholders cooperatives \(the local OFN entities\): Saas services based on the OFN software, consulting and trainings based on the sector development products, etc. This is the basis of our economic and governance models :-\)
+
+
 
