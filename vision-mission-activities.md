@@ -4,6 +4,8 @@
 
 If centralization and disconnexion are the two root causes that breaks our food system, then the solution is ... **to decentralize and reconnect !** 
 
+![Decentralize and reconnect... the mycelium image](.gitbook/assets/mycellium.png)
+
 ### **Vision**
 
 We carry on the vision of a decentralized food system, made up with thousands of independant and diverse distribution hubs reconnecting producers to customers. A transparent food system where the flow of the food from farm to fork is made open, so we know who came in between, what margin they took, what value they added. We believe distribution is key as by structuring the demand and creating markets for local organic food, food hubs secure the installation of new producers, and the transition of conventionnal farmers toward regenrative agriculture practices. Production and distribution needs to move hand in hand, but it's harder for farmers to change if they are not secured about if they will be able or not to sell their products... 
