@@ -7,6 +7,8 @@ There is no global entity on a legal dimension. An entity is always based in a g
 - **the territorial/regional/country layer**: [OFN UK](https://openfoodnetwork.org.uk/), [OFN Australia](http://openfoodnetwork.org.au/), [Open Food France](http://openfoodfrance.org/), [Katuma](http://katuma.org/) , [OFN Canada](https://openfoodnetwork.ca/), etc. are local commons managed as platform cooperatives by multiple stakeholders. Those organisations are _users and coproducers of the global commons_.  
 - **the local layer**: local food hubs, that most of the time are also super local commons. They are **users and coproducers of the local commons** OFN UK, OFN Australia, Open Food France, etc.
 
+![](../.gitbook/assets/capture-du-2019-05-25-22-17-05.png)
+
 ## A network of local entities
 
  So legally speaking, the Open Food Network is **a network of local entities who are together committed and engaged with one another to codevelop and maintain global commons**, and to start with, the OFN software they all use. The contractual document here is our "[community pledge](https://community.openfoodnetwork.org/t/ofn-community-pledge-v1-0-1-june-2017/948)". Every entity who wants to be part of the Open Food Network community has to sign that pledge publicly. It means we all share the responsability for that global commons, so we all have to work on making it thrive, economically viable, make sure it really serve the food system we want to serve, etc.

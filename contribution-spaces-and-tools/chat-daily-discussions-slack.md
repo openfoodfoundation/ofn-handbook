@@ -1,4 +1,0 @@
-# Chat daily discussions: Slack
-
-
-
