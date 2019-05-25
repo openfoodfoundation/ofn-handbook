@@ -25,4 +25,5 @@
   * [Affiliation process](becoming-a-local-ofn-affiliate/affiliation-process.md)
   * [Branding guidelines](becoming-a-local-ofn-affiliate/branding-guidelines.md)
   * [Graphical ressources](becoming-a-local-ofn-affiliate/graphical-ressources.md)
+* [Contact us](contact-us.md)
 
