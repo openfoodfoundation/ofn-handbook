@@ -1,34 +1,100 @@
 # Information management
 
-There are three levels of information flow:
+We understand well that OFN is a powerful and complex platform. We’ve all been through the learning curve of learning our way around and learning how to get the most out of it. This guide is intended to help the OFN community navigate the OFN documentation to find the answers to your questions quickly.
 
-* **Level 0 = any person interested in the OFN,** they need to easily find information on what is OFN.
-  * They are supported by the local and global communication teams through the following channels:
-    * General information website
-    * Affiliates newsletter
-* **Level 1 = hubs' customers**, they need to buy without friction. Ideally the UX of the marketplace is clear enough so no documentation is needed. Some hubs have developed tutorials for their customers who have difficulties to use internet tools.
-  * Hubs' customers are supported by hub managers through the following channels:
-    * Tutorials
-      * their home made tutorials \[we can share some to hub managers on which they can build their own custom version\]
-      * Online video tutorials = Youtube OFN UK channel
-    * Personal reactive support = most hubs give at least an email so their customers can email them, sometimes a phone number as well.
-* **Level 2 = hub managers**, they need to know how to use the OFN ressources \(software, knowledge\). On the software side, they need to know how to create and manage their hub on the OFN platform.  
-  * Hub managers are supported by affiliates managers through the following channels:
-    * Documentation = user guide
-    * Personal reactive support = ticketing tool / support email. No live chat yet
-* **Level 3 = local OFN affiliates managers**, they need to know how to develop their local entity and community, structure it legally, economically and operationally. They are providing the services based on the OFN ressources : Saas service based on the OFN software, training and consulting based on OFN sector development resources, etc. They need to be able to support the development and performance of the hubs, while using the software or through supporting them in their business and operational models. 
-  * Unexperienced / new affiliates managers are supported by experienced managers through the following channels:
-    * Documentation = OFN handbook \(including OFN software super-admin handbook\) and Google drive for coedition of documents and storage.
-    * Personal reactive support = OFN global email hello@openfoodnetwork.org
-    * Dynamic forum = Community forum \(category "using OFN", tag "Community of practice"\)
-    * Live chat = Slack \(channel "customer service" \[to be renamed something like "Affiliates support"\]\)
-  * Experiences affiliates managers are supported by the product developers \(web developers for the software, researchers and content creators for sector development knowledge\)
-    * Dynamic forum = Community forum \(category "software improvement" and "community of practice" \[rename "sector development resources improvement"?\]\) and Google drive for coedition of documents and storage.
-    * Ticketing = Github for software issues \(label "bug"\), Airtable for sector development resources issues.
-    * Live chat = Slack \(channel "bugs" and "devs"\)
-* **Level 4 = products developers**, 
-  * Software product developers
-    * Documentation = Github Wiki and OFN handbook
-  * Sector development resources developers
-    * To be defined
+Due to the number of people involved in OFN around the world we ask that you closely follow this guide when posting and asking for help. A question asked in the wrong place can impact the whole community when answers are lost and people are distracted.
+
+This document is intended to help instance managers and OFN contributors to find the help that they need to be involved in OFN and to support enterprises and customers.
+
+## Our Guides and EBooks
+
+Over the years we’ve collected and collated instructions for almost every task you can imagine within OFN.
+
+[Our User Guide](https://guide.openfoodnetwork.org/) contains detailed instructions and pictures for enterprises using OFN. It is a great resource when getting your head around the functionality and can also be shared with users directly.  
+
+
+The [OFN Handbook](https://ofn-user-guide.gitbook.io/ofn-handbook/) is our single point of truth about the processes currently applied in the community. It is a support for anyone who wants to understand what is OFN and how we are organized as a community.
+
+The [Super Admin](https://ofn-user-guide.gitbook.io/ofn-super-admin-guide/) Guide contains a detailed set of instructions for helping Instance Managers navigate the Super Admin interface of the OFN software. The Super Admin pages are often a bit more messy and inconsistent than other parts of OFN as we prioritise the maintenance of these pages below other work for customers and users….. Hence this guide is invaluable!
+
+The OFN [Youtube](https://www.youtube.com/channel/UClzHYZku5KNrDHU6tFfoipA/featured) page gathers videos about the OFN, the project and vision, but also some first tutorials for enterprise users of the OFN platforms. We hope to expand video resources in the coming months so stay tuned !
+
+The [OFN Github Wiki](https://github.com/openfoodfoundation/openfoodnetwork/wiki) is where we document the processes that are specific to the software development. Experienced instance managers might need to use it, to learn how to report a bug for instance.
+
+## Our Forums
+
+The [global OFN community](http://community.openfoodnetwork.org) uses this forum as a key communication tool to help us understand and organise our work.
+
+The [Using OFN](https://community.openfoodnetwork.org/c/using-ofn) category is a great place to share your learning and understand as you find your way through OFN. If you get stuck on something and figure out a good solution if really helps the community to post your solution here such that it is easy for other people to find in the future. It can also help you to explore different solutions and brainstorm with the wider community.
+
+The [Software Improvement](https://community.openfoodnetwork.org/c/software-impovement) category is the place where we manage the prioritisation of the future improvements to the platform. If you would like to propose a potential improvement do this in the Wishlist category. We can then work together to get this ready for the community voting process.
+
+The research community in OFN use the [Research category.](https://community.openfoodnetwork.org/c/research)
+
+A number of instances have their own forums for their local community. Find [Australia’s Fair Food Forum](https://fairfoodforum.org.au), the [OFN UK Community](http://community.openfoodnetwork.org.uk) and the [Open Food France Forum](https://forums.openfoodfrance.org/).  
+
+
+## Our Live Chat
+
+If you are new to the community please [Contact Us](https://ofn-user-guide.gitbook.io/ofn-handbook/contact-us) or [join our Slack](https://join.slack.com/t/openfoodnetwork/shared_invite/enQtMzU2Mjk5MDc2MjA5LTM4ZTAzZjIwNzIxMmU5ODFiNWY1MTU2ZWUyNzQwNjdjNTY0N2VhY2UwOGU4ZmVjNzYyZDU2NjY3NzZkZmQwYjk)!
+
+Usually what we really want is to talk to a human! Within the OFN community we do this via [our Slack workspace](https://openfoodnetwork.slack.com). Due to the number of people and projects we are juggling in OFN our Slack channels become very noisy. It helps everyone to try and minimise the noise and post our questions in the most appropriate channels where people can pick them up when they are ready. There are people in every channel every day and generally questions are answered within hours, usually faster!
+
+The [Instance Managers](https://openfoodnetwork.slack.com/messages/CG7NJ966B) channel is the best place to start if you are asking general questions about how to use OFN. Members of this channel include both experienced and inexperienced instance managers that can answer almost every question you have. If you are relatively new to OFN the chances are that the ‘bug’ you have spotted is actually a ‘feature’. In this channel we can help figure that out.
+
+The [Bugs](https://openfoodnetwork.slack.com/messages/CDLKH9MM0) channel is the best place to discuss bugs with product managers and experienced instance managers before reporting them in Github. Members of this channel include both experienced instance managers and product managers, both of whom have a good understanding of the platform. If you would not consider yourself an experienced instance manager or product manager of OFN then it is best to ask your question in the Instance Manager channel first.
+
+The [Dev](https://openfoodnetwork.slack.com/messages/C2GQ45KNU) channel is a place for developers to help each other with technical questions. It contains developers and other members of the delivery pipe. This channel tends to be a busy channel and hence is not the best place for anything other than strictly technical questions. If your question is more about using OFN, navigating the UI or figuring out if your issue is a bug or not then it is best to use the Instance Managers channel as a first port of call.
+
+There are many other channels for specific features and work areas of OFN that might be useful too. You can find others interested in specific topics \(eg [Research](https://openfoodnetwork.slack.com/messages/C9RLAHRF0), [User Experience](https://openfoodnetwork.slack.com/messages/CC5CW0AJW), [CSAs](https://openfoodnetwork.slack.com/messages/C8QG769DZ), [Communications](https://openfoodnetwork.slack.com/messages/C4LJU6M35)\) or find people from a specific instance \(eg France, Katuma, Australia, South Africa, USA, UK\). Try searching for the topic!
+
+If you are still unsure where to go to find the answers to your questions try posting to the [General](https://openfoodnetwork.slack.com/messages/C02G54U7H) channel in Slack. Someone in the community will get back to you quickly to point you in the right direction.  
+
+
+## General Information and Documents
+
+The [global website](https://openfoodnetwork.org/) is the main general information entry point. You will find on it high level information of what is OFN, links to every local platform, and to sector development resources like case studies.
+
+To manage our collective documents for presentations, research, governance processes, communication material, fundraising applications and whenever we need to coedit a proposal before feeding other handbooks or opening a proposal on the community forum, we use Google Drive. You can request an access by asking some other instance manager on Slack. We hope someday we can find a cloud tool as easy as Google but open source and data privacy friendly, but for now we need efficiency to build our community and project. Easy collaborative editing is a must-have in our context.
+
+Some local instances have newsletters that you can follow and gain inspiration from. Check out the [Australian newsletter](https://openfoodnetwork.us13.list-manage.com/subscribe?u=6752bbf142dc0ebe3b69c4473&id=9074f025e3) and the [UK newsletter](https://about.openfoodnetwork.org.uk/sign-up-to-our-newsletter/).
+
+And last but not least… the general OFN email if you want to contact us: [hello@openfoodnetwork.org](mailto:hello@openfoodnetwork.org).
+
+## Summary
+
+**For people new to OFN…**  
+[Contact Us](https://ofn-user-guide.gitbook.io/ofn-handbook/contact-us) or [join our Slack](https://join.slack.com/t/openfoodnetwork/shared_invite/enQtMzU2Mjk5MDc2MjA5LTM4ZTAzZjIwNzIxMmU5ODFiNWY1MTU2ZWUyNzQwNjdjNTY0N2VhY2UwOGU4ZmVjNzYyZDU2NjY3NzZkZmQwYjk) to be welcomed to the community.
+
+**For customers and enterprises...**  
+Your best point of contact is your instance managers for specific questions. Many instances use ticketing systems to manage their user support. Go to your local website to find the help you need.  
+The User Guide is your friend in navigating the OFN software.
+
+**For Instance Managers...**  
+If you are interested in starting a new instance then [Contact Us](https://ofn-user-guide.gitbook.io/ofn-handbook/contact-us).  
+If you are looking for help managing your instance see the Guides and Forums above and chat to us on the Instance Managers channel in Slack.
+
+**For researchers...**  
+Get in touch with your local OFN instance or [Contact Us](https://ofn-user-guide.gitbook.io/ofn-handbook/contact-us).  
+We can invite you to join our researcher community on Slack to find out what everyone else is studying and exploring.
+
+**For technical contributors...**  
+To get started take a look at our Github wiki and Handbook. Then when you are ready [Contact Us](https://ofn-user-guide.gitbook.io/ofn-handbook/contact-us) or [join our Slack](https://join.slack.com/t/openfoodnetwork/shared_invite/enQtMzU2Mjk5MDc2MjA5LTM4ZTAzZjIwNzIxMmU5ODFiNWY1MTU2ZWUyNzQwNjdjNTY0N2VhY2UwOGU4ZmVjNzYyZDU2NjY3NzZkZmQwYjk).  
+
+
+**For other potential contributors….**  
+To get started take a look at our Handbook. Then when you are ready [Contact Us](https://ofn-user-guide.gitbook.io/ofn-handbook/contact-us) or [join our Slack](https://join.slack.com/t/openfoodnetwork/shared_invite/enQtMzU2Mjk5MDc2MjA5LTM4ZTAzZjIwNzIxMmU5ODFiNWY1MTU2ZWUyNzQwNjdjNTY0N2VhY2UwOGU4ZmVjNzYyZDU2NjY3NzZkZmQwYjk).
+
+## Looking for something else?
+
+If you are interested in understanding how our [delivery pipe works visit this page](https://ofn-user-guide.gitbook.io/ofn-handbook/working-on-the-ofn-governance/how-do-we-prioritize-new-developments).
+
+If you are interested in contributing to [OFN visit this page.](https://ofn-user-guide.gitbook.io/ofn-handbook/working-on-the-ofn-governance/team-organization/onboarding-process)
+
+If you are interested in getting set up as an [OFN developer visit this wiki.](https://github.com/openfoodfoundation/openfoodnetwork/wiki)
+
+If you are looking for more info on [OFN Feature Testing visit this page](https://github.com/openfoodfoundation/openfoodnetwork/wiki/Feature-Testing-Handbook).  
+
+
+And, of course, if you are interested in becoming part of the community [Contact Us](https://ofn-user-guide.gitbook.io/ofn-handbook/contact-us)!
 
