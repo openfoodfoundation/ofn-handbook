@@ -1,6 +1,6 @@
 # Report, understand and prioritize needs
 
-How do we process needs **reported by users that are not yet satisfied by the platform?**
+How do we process unmet needs \(problems\) **reported by users that are not yet satisfied by the platform?**
 
 ### **1- Needs collection and understanding**
 
