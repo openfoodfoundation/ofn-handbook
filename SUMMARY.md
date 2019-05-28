@@ -21,6 +21,7 @@
     * [Brainstorm solutions and choose one](working-on-the-ofn-governance/how-do-we-prioritize-new-developments/brainstorm-the-potential-solutions.md)
     * [Curate the delivery pipeline](working-on-the-ofn-governance/how-do-we-prioritize-new-developments/manage-the-delivery-pipeline.md)
     * [Incept the solution and implement it](working-on-the-ofn-governance/how-do-we-prioritize-new-developments/incept-the-solution-and-implement-it.md)
+  * [How we prioritize general & sector development tasks](working-on-the-ofn-governance/how-we-prioritize-general-and-sector-development-tasks.md)
 * [Information management](contribution-spaces-and-tools.md)
 * [Becoming a local OFN affiliate](becoming-a-local-ofn-affiliate/README.md)
   * [Affiliation process](becoming-a-local-ofn-affiliate/affiliation-process.md)
