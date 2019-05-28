@@ -1,4 +1,4 @@
-# Brainstorm solutions, choose one and implement it
+# Brainstorm solutions and choose one
 
 When we have this TOP10 needs identified, we need to organize brainstormings about the potential solutions that could enable us to satisfy the top prioritized needs. Probably, this will have started already when specifying the need, as people will start with solutions instead of needs ;-\) But we need to do some proper brainstorming to open our mind and not get stuck with the first solution that came to our mind.
 
@@ -15,6 +15,12 @@ For each potential solution, we evaluate the easyness level and value level, and
 That will help us choose the feature candidate that enable us to get enough value to meet the need, and that will request the less work for that. Basically we will tend to choose a feature candidate that add the more value regarding the need, and enough value for the need to be met, at the lower cost possible. This feature candidate is then called **"selected feature candidate"**.
 
 When a feature candidated has been selected for a given need, the "product owner" for the need is in charge of **opening an epic on Github and add it to the "**[**product feature backlog**](https://github.com/openfoodfoundation/openfoodnetwork/projects/19)**" project board in the "backlog" column**. When the[ curation team](https://ofn-user-guide.gitbook.io/ofn-contributor-guide/~/drafts/-LJJegY9nhcItdnde4Bb/primary/working-on-the-ofn-governance/how-do-we-prioritize-new-developments/manage-the-delivery-pipeline) have gathered and decided to enter that feature in the development pipeline, they will assign a "tech owner" to that feature, depending on the availablility of the developers at that moment.
+
+This epic needs to encompass:  
+- reminder of the overaching unmet need \(can add link to the need description and solution discovery session\)  
+- why this feature woudl help us meet the need  
+- metrics that will enable us to check if it does  
+- who are the product and tech owners
 
 ### 3- Incept the selected solution
 

@@ -1,4 +1,4 @@
-# Report, understand and prioritize needs
+# Report, understand and prioritize unmet needs
 
 How do we process unmet needs \(problems\) **reported by users that are not yet satisfied by the platform?**
 
