@@ -1,6 +1,6 @@
 # Incept the solution and implement it
 
-Once a feature answering an unmet need has been accepted by the curation team to enter the current quarter, the product and tech owners can then organize the inception and implementation of that feature.
+Once a feature answering an unmet need has entered the delivery pipe, the product and tech owners can then organize the inception and implementation of that feature.
 
 ### 1- Incept the selected solution
 
@@ -16,10 +16,9 @@ The product owner of the feature is in charge of communicating all that work **b
 
 ### 2- Implement the solution
 
-The product owner might want at that stage to **open a dedicated project board** to be able to follow the implementation process of that specific feature.
+The product owner might want at that stage to **open a dedicated project board or a specific column in zenhub** to be able to follow the implementation process of that specific feature.
 
-When we have this story map, the product owner will feed the delivery pipeline with new issues picking them in those story maps, in order to make sure the features are released as quickly and efficiently as possible.  
-
+When we have this story map, the product owner will feed the delivery pipeline with new issues picking them in those story maps, in order to make sure the features are released as quickly and efficiently as possible.
 
 ### 
 
