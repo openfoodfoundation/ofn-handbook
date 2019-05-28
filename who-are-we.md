@@ -15,11 +15,9 @@ In OFN, a hub can be many different things, including:
 - a CSA or buying group organizing regular collective purchases, which can be subscription-based, and can handle multiple sub-purchase groups  
 - an entrepreneur sourcing food from local/organic producers and organizing sales to individuals, groups, restaurants, retailers
 
-The platform also enables networking and marketing features, like the possibility to create a ‘group’ with producers and hubs of a specific ecosystem displayed on a map, as the[ Biodynamic Association in UK](https://www.biodynamic.org.uk/where-to-buy/) did.
-
 ### Sector development products
 
-The OFN community is in contact everyday with lots of food hubs, organized around diverse operationnal, economics, logistics models. And food hubs need more than just a software tool to be efficient, and replicate. So we are building various products to support the development of the local and regenerative food sector : 
+The OFN community is in contact everyday with lots of food hubs, organized around diverse operational, economics, and logistics models. And food hubs need more than just a software tool to be efficient, and replicate. So we are building various products to support the development of the local and regenerative food sector : 
 
 * article, reports and other deliverable from research programs and food system analysis
 * trainings material
@@ -28,7 +26,7 @@ The OFN community is in contact everyday with lots of food hubs, organized aroun
 
 ## The OFN services
 
-All those products are open source, but as a community, we propose services around those various products, through local democratically run multistakeholders cooperatives \(the local OFN entities\): Saas services based on the OFN software, consulting and trainings based on the sector development products, etc. This is the basis of our economic and governance models :-\)
+All those products are open source, but as a community, we propose services around those various products, through local democratically run multi-stakeholders cooperatives and collectives \(the local OFN entities\): Saas services based on the OFN software, consulting and trainings based on the sector development products, etc. This is the basis of our economic and governance models :-\)
 
 
 

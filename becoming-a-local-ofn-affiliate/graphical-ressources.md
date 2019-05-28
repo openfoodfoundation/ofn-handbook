@@ -1,10 +1,10 @@
-# Graphical ressources
+# Graphical resources
 
 We have not yet properly defined the graphical charter of the OFN, but we can already share some elements. We are going to refine that graphic base step by step.
 
 ### Fonts
 
-The fond use for the logo is \[to be specified\].
+The font use for the logo is \[to be specified\].
 
 The font we use for titles and paragraph texts are \[to be specified\].
 
