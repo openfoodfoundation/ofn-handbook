@@ -8,7 +8,7 @@ There are many different ways to contribute to the OFN project. Inspired by the 
 
 #### Super administration of the OFN platform
 
-This role includes all what relates to setting up the localized version of the platform: translation in local language, VAT setup, taxonomy setup, local links, setting up a local user guide, etc. 
+This role includes all what relates to setting up the localized version of the platform: translation in local language, VAT setup, taxonomy setup, local links, setting up a local user guide, etc. We have setup a [specific guide for super-admin](https://ofn-user-guide.gitbook.io/ofn-super-admin-guide/) to support you in your role ! Check-it out :-\)
 
 #### User support
 
