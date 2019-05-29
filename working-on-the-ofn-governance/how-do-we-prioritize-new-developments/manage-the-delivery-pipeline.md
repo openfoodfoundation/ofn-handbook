@@ -6,10 +6,10 @@ So we will have in permanence lots of different issues competing to enter the de
 - tech debt issues reported by developers  
 - sys admin tasks
 
-In order to feed the delivery pipe to ensure the sustainability and maintainability of our product, we need to make sure that tech debt is taken into account, that painful bugs get solved and that prioritized unmet needs get met. For that we have set up a **monthly delivery pipe standup meeting**.
+In order to feed the delivery pipe to ensure the sustainability and maintainability of our product, we need to make sure that tech debt is taken into account, that painful bugs get solved and that prioritized unmet needs get met. For that we have set up a **monthly delivery pipe meeting**.
 
-**The role of this standup is to review how the work planned have been done, reprioritize if needed, and decide what enters the pipeline for month to come:**  
-- what tech debt do we need to fix in priority?  
+**The role of this meeting is to review how the work planned have been done, reprioritize if needed, and decide what enters the pipeline for month to come:**  
+- what tech debt / sysadmin task do we need to fix in priority?  
 - among the features selected to satisfy the unmet needs, which ones can we reasonably incept and implement in the month to come?  
 - what bugs do we put in the pipeline?
 
