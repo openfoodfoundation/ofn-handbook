@@ -2,15 +2,11 @@
 
 We have not yet properly defined the graphical charter of the OFN, but we can already share some elements. We are going to refine that graphic base step by step.
 
-### Fonts
+### Fonts and color codes
 
-The font use for the logo is \[to be specified\].
+You'll find on that document all about the fonts and colors we use for our local branding and as shared communication guildelines. If you want to suggest any improvement please let us know on Slack or on the community forum, else please use them in your communication so we try to build a consistent brand and image !
 
-The font we use for titles and paragraph texts are \[to be specified\].
-
-### Color code
-
-The colors we use are the following : \[to be specified\].
+![OFN styleguide overview](../.gitbook/assets/ofn-styleguide-overview-20190611-page-001.jpg)
 
 ### Visual elements of the logo
 
