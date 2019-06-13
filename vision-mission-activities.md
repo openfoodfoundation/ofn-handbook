@@ -2,7 +2,7 @@
 
 ## The solution proposed by the Open Food Network
 
-If centralization and disconnexion are the two root causes that breaks our food system, then the solution is ... **to decentralize and reconnect !** 
+If centralization and disconnection are the two root causes that break our food system, then the solution is ... **to decentralize and reconnect !** 
 
 ![Decentralize and reconnect... the mycelium image](.gitbook/assets/mycellium.png)
 
