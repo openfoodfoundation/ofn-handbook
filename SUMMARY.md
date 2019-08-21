@@ -24,6 +24,7 @@
   * [How we prioritize general & sector development tasks](working-on-the-ofn-governance/how-we-prioritize-general-and-sector-development-tasks.md)
 * [Information management](contribution-spaces-and-tools.md)
 * [Becoming a local OFN affiliate](becoming-a-local-ofn-affiliate/README.md)
+  * [An entrepreneurial journey](becoming-a-local-ofn-affiliate/an-entrepreneurial-journey.md)
   * [Affiliation process](becoming-a-local-ofn-affiliate/affiliation-process.md)
   * [Branding guidelines](becoming-a-local-ofn-affiliate/branding-guidelines.md)
   * [Graphical resources](becoming-a-local-ofn-affiliate/graphical-ressources.md)
