@@ -1,6 +1,6 @@
 # What is the OFN in brief?
 
-Open Food Network \(OFN\) is a collaborative global network of local non-for-profit organisations who codevelop open source software and knowledge, and make it available to food hubs worldwide through localized online platforms \(like [OFN UK](https://openfoodnetwork.org.uk/), [OFN Australia](http://openfoodnetwork.org.au/), [Open Food France](http://openfoodfrance.org/), [Katuma](http://katuma.org/) , [OFN Canada](https://openfoodnetwork.ca/), etc.\) and communities. 
+Open Food Network \(OFN\) is a collaborative global network of local non-for-profit organisations who codevelop open source software and knowledge, and make it available to food hubs worldwide through localized online platforms \(like [Open Food Network UK](https://openfoodnetwork.org.uk/), [Open Food Network Australia](http://openfoodnetwork.org.au/), [Open Food France](http://openfoodfrance.org/), [Katuma](http://katuma.org/) , [Open Food Network Canada](https://openfoodnetwork.ca/), etc.\) and communities. 
 
 The mission of this community is to build shared digital infrastructure and shared knowledge to enable short food chain operators to manage their activities, cooperate more efficiently, and build food sovereignty. Just as consumers and producers come together to create food hubs, in OFN food hubs come together to create digital infrastructure and share the use of it. We could talk about "Community Supported Software" and "Community Supported Knowledge".
 
