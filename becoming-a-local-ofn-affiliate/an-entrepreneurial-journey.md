@@ -1,6 +1,6 @@
 # An entrepreneurial journey
 
-Bootstraping a local OFN community is a social enterprise : it means you are taking the lead on gathering a team, creating a local entity \(or finding an existing one to host the project\), organize the deployment of the OFN software for the local users, setup user support, plan communication, think about economic model, etc. Let's detail a bit what it takes to startup a local OFN affiliate entity.
+Bootstraping a local OFN community is a social enterprise; it means you are taking the lead on gathering a team, creating a local entity \(or finding an existing one to host the project\), organize the deployment of the OFN software for the local users, setup user support, plan communication, think about economic model, etc. Let's detail a bit what it takes to startup a local OFN affiliate entity.
 
 ## 1- Build a first node of community and/or team
 
