@@ -14,7 +14,7 @@ It's hard to start talking about the project without having something to show to
 
 If you have not yet set up the software in your country and you want to show others how it works, you are welcome to become an administrator of the OFN demo food hub on the OFN UK server.  Please contact nick@openfoodnetwork.org.uk if you would like to be given admin access to this demo enterprise.
 
-### Why having separate local OFN platforms ?
+### Why we have separate local OFN platforms ?
 
 For now, each local OFN entity needs a specific local deployment of the software, on their own servers. It may seems a bit less efficient than having just one deployment for the whole world, as we need to redo the installation job every time.
 
