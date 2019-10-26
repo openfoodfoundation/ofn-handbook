@@ -1,6 +1,6 @@
 # White label users
 
-Some people / entities are intersted to build their private entrepreneurial projet on the OFN software and/or sector development resources, but under their own brand, without entering a process of becoming a local affiliate. They want to be totally independant on their project and don't want to follow the community rules that apply to local OFN affiliates.
+Some people / entities are intersted to build their private entrepreneurial project on the OFN software and/or sector development resources, but under their own brand, without entering a process of becoming a local affiliate. They want to be totally independant on their project and don't want to follow the community rules that apply to local OFN affiliates.
 
 It's OK. We definitely understand that, and even encourage it ! We do propose those people / entity support, and invite them to join the community as associates so they can benefit from the community support.
 
