@@ -1,8 +1,16 @@
 # Onboarding process
 
+## \(April 2020\) Recruitment of Senior Dev in Australia
+
+Applicants for the [Senior Dev role currently being advertised in Australia](https://about.openfoodnetwork.org.au/wp-content/uploads/2020/04/OFNAU-Software-Dev-April2020.pdf) are being fast-tracked through the process described below. We have one Australian based full-time paid role available \($91,000 +super, pro-rata\) and it will be filled by a paid employee asap. To apply for this role, we are not asking for weeks of work, just that you demonstrate your capabilities and communication skills in real time by picking up a few issues with the label ‘AU’ [from this project](https://github.com/openfoodfoundation/openfoodnetwork/projects/27) that will best demonstrate your skills, and working them through the delivery process, interacting with the team as you go. The bonus is that you get to see whether this is a project and team that fits what you’re looking for, too.
+
+If you are doing this, please send a direct message to @danielle and @maikel on the [Open Food Network Slack workspace](https://openfoodnetwork.org/slack-invite) so we can note your interest amongst the various contributors who pop up on the repo, and we can help speed up the process of getting your PRs reviewed, tested and merged.
+
+## Open Food Network - 'normal' on-boarding process
+
 OFN is a community with contributors in different countries, who work as peers, without any hierarchical relationship. By default, the organization is "liquid", people can join and start contributing, some contribute a little bit for a very short time, some really commit and for them OFN becomes their main daily occupation.
 
-Contributors create value for the OFN commons, whether it be by contributing with pieces of code, with communication initiative, or with fund raising. The logic we aim to achieve is to be able as a community to retribute the contributors for the value they bring to the community. But before creating value, a new contributor most of the time needs support. The supporters create value for the community by helping out newcomers of course, and we are all happy to invest in the development of the community.
+Contributors create value for the OFN commons, whether it be by contributing with pieces of code, with communication initiative, or with fund raising. The logic we aim to achieve is to be able as a community to credit the contributors for the value they bring to the community. But before creating value, a new contributor most of the time needs support. The supporters create value for the community by helping out newcomers of course, and we are all happy to invest in the development of the community.
 
 But we are still a small group of people and have limited capacity \(24 hours per day, and some other things we want to do in our life :-\)\) Unfortunately, we can't afford to spend a lot of time with people who are not able, after a certain period of time, to efficiently create value for the project :-\( And we can't afford either to pay those people...
 
