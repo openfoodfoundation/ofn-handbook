@@ -1,10 +1,16 @@
 # Onboarding process
 
-## \(April 2020\) Recruitment of Senior Dev in Australia
+## \(May 2020\) Fast-track process to fill Senior Dev Roles in Australia \(complete\)
 
-Applicants for the [Senior Dev role currently being advertised in Australia](https://about.openfoodnetwork.org.au/wp-content/uploads/2020/04/OFNAU-Software-Dev-April2020.pdf) are being fast-tracked through the process described below. We have one Australian based full-time paid role available \($91,000AUD +super, pro-rata\) and it will be filled by a paid employee asap. To apply for this role, we are not asking for weeks of work, just that you demonstrate your capabilities and communication skills in real time by picking up a few issues with the label ‘AU’ [from this project](https://github.com/openfoodfoundation/openfoodnetwork/projects/27) that will best demonstrate your skills, and working them through the delivery process, interacting with the team as you go. The bonus is that you get to see whether this is a project and team that fits what you’re looking for, too.
+Applicants for the [Senior Dev role currently being advertised in Australia](https://about.openfoodnetwork.org.au/wp-content/uploads/2020/04/OFNAU-Software-Dev-April2020.pdf) were fast-tracked through the process described below and we are excited to welcome 2 new people to the team. 
 
-If you are doing this, please send a direct message to @danielle and @maikel on the [Open Food Network Slack workspace](https://openfoodnetwork.org/slack-invite) so we can note your interest amongst the various contributors who pop up on the repo, and we can help speed up the process of getting your PRs reviewed, tested and merged.
+We are revising and evolving the fast-track process as we anticipate / hope that funding will enable us to hire more people in coming months. However, the first 'port of call' for new hires will always be those who have set themselves up and demonstrated value and culture-fit through the process outlined below. 
+
+So if you're interested in working with us, make yourself known :\)
+
+_To apply you need to you demonstrate your capabilities and communication skills in real time by picking up a few issues with the label ‘AU’_ [_from this project_](https://github.com/openfoodfoundation/openfoodnetwork/projects/27) _that will best demonstrate your skills, and working them through the delivery process, interacting with the team as you go. The bonus is that you get to see whether this is a project and team that fits what you’re looking for, too._
+
+If you are doing this with a clear view / preference to future paid work, please send a direct message to @danielle and @maikel on the [Open Food Network Slack workspace](https://openfoodnetwork.org/slack-invite) so we can note your interest amongst the various contributors who pop up on the repo, and we can help speed up the process of getting your PRs reviewed, tested and merged.
 
 ## Open Food Network - 'normal' on-boarding process
 
