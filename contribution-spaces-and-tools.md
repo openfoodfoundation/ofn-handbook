@@ -36,9 +36,9 @@ A number of instances have their own forums for their local community. Find [Aus
 
 ## Our Live Chat
 
-If you are new to the community please [Contact Us](https://ofn-user-guide.gitbook.io/ofn-handbook/contact-us) or [join our Slack](https://join.slack.com/t/openfoodnetwork/shared_invite/enQtMzU2Mjk5MDc2MjA5LTM4ZTAzZjIwNzIxMmU5ODFiNWY1MTU2ZWUyNzQwNjdjNTY0N2VhY2UwOGU4ZmVjNzYyZDU2NjY3NzZkZmQwYjk)!
+If you are new to the community please [Contact Us](https://ofn-user-guide.gitbook.io/ofn-handbook/contact-us) or [join our Slack](https://join.slack.com/t/openfoodnetwork/shared_invite/zt-9sjkjdlu-r02kUMP1zbrTgUhZhYPF~A)!
 
-Usually what we really want is to talk to a human! Within the OFN community we do this via [our Slack workspace](https://openfoodnetwork.slack.com). Due to the number of people and projects we are juggling in OFN our Slack channels become very noisy. It helps everyone to try and minimise the noise and post our questions in the most appropriate channels where people can pick them up when they are ready. There are people in every channel every day and generally questions are answered within hours, usually faster!
+Usually what we really want is to talk to a human! Within the OFN community we do this via our [Slack workspace](https://join.slack.com/t/openfoodnetwork/shared_invite/zt-9sjkjdlu-r02kUMP1zbrTgUhZhYPF~A). Due to the number of people and projects we are juggling in OFN our Slack channels become very noisy. It helps everyone to try and minimise the noise and post our questions in the most appropriate channels where people can pick them up when they are ready. There are people in every channel every day and generally questions are answered within hours, usually faster!
 
 The [Instance Managers](https://openfoodnetwork.slack.com/messages/CG7NJ966B) channel is the best place to start if you are asking general questions about how to use OFN. Members of this channel include both experienced and inexperienced instance managers that can answer almost every question you have. If you are relatively new to OFN the chances are that the ‘bug’ you have spotted is actually a ‘feature’. In this channel we can help figure that out.
 
@@ -50,14 +50,14 @@ The [Dev](https://openfoodnetwork.slack.com/messages/C2GQ45KNU) channel is a pla
 
 There are many other channels for specific features and work areas of OFN that might be useful too. You can find others interested in specific topics \(eg [Research](https://openfoodnetwork.slack.com/messages/C9RLAHRF0), [User Experience](https://openfoodnetwork.slack.com/messages/CC5CW0AJW), [CSAs](https://openfoodnetwork.slack.com/messages/C8QG769DZ), [Communications](https://openfoodnetwork.slack.com/messages/C4LJU6M35)\) or find people from a specific instance \(eg France, Katuma, Australia, South Africa, USA, UK\). Try searching for the topic!
 
-If you are still unsure where to go to find the answers to your questions try posting to the [General](https://openfoodnetwork.slack.com/messages/C02G54U7H) channel in Slack. Someone in the community will get back to you quickly to point you in the right direction.  
+If you are still unsure where to go to find the answers to your questions try posting to the [General channel in Slack](https://join.slack.com/t/openfoodnetwork/shared_invite/zt-9sjkjdlu-r02kUMP1zbrTgUhZhYPF~A). Someone in the community will get back to you quickly to point you in the right direction.  
 
 
 ## General Information and Documents
 
 The [global website](https://openfoodnetwork.org/) is the main general information entry point. You will find on it high level information of what is OFN, links to every local platform, and to sector development resources like case studies.
 
-To manage our collective documents for presentations, research, governance processes, communication material, fundraising applications and whenever we need to coedit a proposal before feeding other handbooks or opening a proposal on the community forum, we use Google Drive. You can request an access by asking some other instance manager on Slack. We hope someday we can find a cloud tool as easy as Google but open source and data privacy friendly, but for now we need efficiency to build our community and project. Easy collaborative editing is a must-have in our context.
+To manage our collective documents for presentations, research, governance processes, communication material, fundraising applications and whenever we need to coedit a proposal before feeding other handbooks or opening a proposal on the community forum, we use Google Drive. You can request an access by asking some other instance manager on [Slack](https://join.slack.com/t/openfoodnetwork/shared_invite/zt-9sjkjdlu-r02kUMP1zbrTgUhZhYPF~A). We hope someday we can find a cloud tool as easy as Google but open source and data privacy friendly, but for now we need efficiency to build our community and project. Easy collaborative editing is a must-have in our context.
 
 Some local instances have newsletters that you can follow and gain inspiration from. Check out the [Australian newsletter](https://openfoodnetwork.us13.list-manage.com/subscribe?u=6752bbf142dc0ebe3b69c4473&id=9074f025e3) and the [UK newsletter](https://about.openfoodnetwork.org.uk/sign-up-to-our-newsletter/).
 
@@ -66,7 +66,7 @@ And last but not least… the general OFN email if you want to contact us: [hell
 ## Summary
 
 **For people new to OFN…**  
-[Contact Us](https://ofn-user-guide.gitbook.io/ofn-handbook/contact-us) or [join our Slack](https://join.slack.com/t/openfoodnetwork/shared_invite/enQtMzU2Mjk5MDc2MjA5LTM4ZTAzZjIwNzIxMmU5ODFiNWY1MTU2ZWUyNzQwNjdjNTY0N2VhY2UwOGU4ZmVjNzYyZDU2NjY3NzZkZmQwYjk) to be welcomed to the community.
+[Contact Us](https://ofn-user-guide.gitbook.io/ofn-handbook/contact-us) or [join our Slack](https://join.slack.com/t/openfoodnetwork/shared_invite/zt-9sjkjdlu-r02kUMP1zbrTgUhZhYPF~A) to be welcomed to the community.
 
 **For customers and enterprises...**  
 Your best point of contact is your instance managers for specific questions. Many instances use ticketing systems to manage their user support. Go to your local website to find the help you need.  
@@ -81,7 +81,7 @@ Get in touch with your local OFN instance or [Contact Us](https://ofn-user-guide
 We can invite you to join our researcher community on Slack to find out what everyone else is studying and exploring.
 
 **For technical contributors...**  
-To get started take a look at our Github wiki and Handbook. Then when you are ready [Contact Us](https://ofn-user-guide.gitbook.io/ofn-handbook/contact-us) or [join our Slack](https://join.slack.com/t/openfoodnetwork/shared_invite/enQtMzU2Mjk5MDc2MjA5LTM4ZTAzZjIwNzIxMmU5ODFiNWY1MTU2ZWUyNzQwNjdjNTY0N2VhY2UwOGU4ZmVjNzYyZDU2NjY3NzZkZmQwYjk).  
+To get started take a look at our Github wiki and Handbook. Then when you are ready [Contact Us](https://ofn-user-guide.gitbook.io/ofn-handbook/contact-us) or [join our Slack](https://join.slack.com/t/openfoodnetwork/shared_invite/zt-9sjkjdlu-r02kUMP1zbrTgUhZhYPF~A).   
 
 
 **For other potential contributors….**  
