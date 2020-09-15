@@ -1,8 +1,8 @@
 # Table of contents
 
-* [Introduction](README.md)
-* [What is the OFN in brief?](who-are-we.md)
-* [Context](context.md)
+* [Introducción](README.md)
+* [¿Qué es la OFN en resumen?](who-are-we.md)
+* [Contexto](context.md)
 * [Vision, mission, activities](vision-mission-activities.md)
 * [Our values](our-values.md)
 * [The team](the-team.md)
