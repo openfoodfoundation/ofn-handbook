@@ -3,7 +3,7 @@
 * [Introducción](README.md)
 * [¿Qué es la OFN en resumen?](who-are-we.md)
 * [Contexto](context.md)
-* [Vision, mission, activities](vision-mission-activities.md)
+* [Visión, misión y actividades](vision-mission-activities.md)
 * [Our values](our-values.md)
 * [The team](the-team.md)
 * [The roles](working-in-the-ofn-roles-and-tasks.md)

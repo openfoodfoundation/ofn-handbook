@@ -1,6 +1,6 @@
-# Vision, mission, activities
+# Visión, misión y actividades
 
-## The solution proposed by the Open Food Network
+## La solución propuesta por la Open Food Network
 
 If centralization and disconnection are the two root causes that break our food system, then the solution is ... **to decentralize and reconnect !**
 
