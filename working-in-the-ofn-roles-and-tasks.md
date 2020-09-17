@@ -1,4 +1,4 @@
-# The roles
+# Los roles
 
 There are many different ways to contribute to the OFN project. Inspired by the [holacracy model](https://igipartners.com/read-holacracy-comic-book-free#page-1), we differentiate the people from the roles they can play for certain periods of time. A person can have multiple roles, and a role can be fulfilled by many persons. Some roles relate more to an local affiliate level. Others more to a global level. Some needs to be done at both levels, like communication for instance.
 
