@@ -1,32 +1,33 @@
-# El Equipo
+# The team
 
-Como explicamos más adelante en esta guía, las personas pueden contribuir a nivel local \(facilitando una comunidad OFN local\) o a nivel global. A nivel mundial, estamos formando un equipo de colaboradores certificados, que han pasado por un proceso de incorporación \(¡la mayoría de ellos estaban allí antes de que se construyera este proceso!\). Algunos son colaboradores remunerados, otros han optado por seguir siendo colaboradores voluntarios, pero todas las personas del equipo certificado participan a diario. 
+As we explain later in this guidebook, people can contribute on the local level \(facilitating a local OFN community\) or at global level. At global level, we are building a team of certified contributors, who have gone through the [onboarding process](https://ofn-user-guide.gitbook.io/ofn-contributor-guide/working-on-the-ofn-governance/onboarding-process) \(most of them where there before this process was even built actually!\). Some are paid contributors, others can afford and have chosen to remain volunteer contributors, but all people in the certified team are involved on a daily basis.
 
-Aquí está la lista de los principales contribuyentes certificados globales de OFN
+Here is the list of the main OFN global certified contributors:
 
-**Colaboradores regulares certificados:**
+**Certified regular contributors:**
 
-* Maikel \(Australia / desarrollador + administrador de sistemas\) 
-* Pau \(Catalunya / desarrollador + administrador de sistemas + facilitador de comunidad\) 
-* Matt \(Reino Unido / desarrollador + administrador de sistemas\) Luis \(Portugal / desarrollador\) 
-* Lynne \(Reino Unido / PO + administrador del sistema\) 
-* Nick \(Reino Unido / PO + facilitador de la comunidad\) 
-* Kirsten \(Australia / PO + facilitadora comunitaria\) 
-* Serenity \(Australia / facilitador comunitario + desarrollo del sector\) 
-* Theresa \(Canadá / facilitadora comunitaria + desarrollo del sector\) 
-* Myriam \(Francia / facilitadora comunitaria + OP + desarrollo del sector\) 
-* Rachel \(Francia / maquinista + PO + UX + tester\) 
-* Danielle \(Australia / facilitadora comunitaria + conductor de tren + comunicación global\) 
-* Jen \(Australia / comunicación global + desarrollo del sector\) 
-* Sigmund \(Noruega / revisor de flujo de trabajo y comisario\) 
-* Kristina \(Filipinas / desarrolladora\) 
-* Laurie \(EE.UU. / facilitadora comunitaria\)
+* Maikel \(Australia / developer + sys admin\)  
+* Pau \(Catalunya / developer + sys admin + community facilitator\)  
+* Matt \(UK / developer + sys admin\)  
+* Luis \(Portugal / developer\)  
+* Lynne \(UK / PO + sys admin\)  
+* Nick \(UK / PO + community facilitator\)  
+* Kirsten \(Australia / PO + community facilitator\)  
+* Serenity \(Australia / community facilitator + sector development\)  
+* Theresa \(Canada / community facilitator + sector development\)   
+* Myriam \(France / community facilitator + PO + sector development\)  
+* Rachel \(France / train driver + PO + UX + tester\)  
+* Danielle \(Australia / community facilitator + train driver + global communication\)  
+* Jen \(Australia / global communication + sector development\)  
+* Sigmund \(Norway / workflow reviewer and curator\)  
+* Kristina \(Philippines / developer\)  
+* Laurie \(The USA / community facilitator\)
 
-**Colaboradores ocasionales certificados:** 
+**Certified occasional contributors:**  
 
-* Rob \(Australia / desarrollador + administrador de sistemas\) 
-* Enrico \(Catalunya / desarrollador + administrador de sistemas + facilitador de comunidad\) 
-* Steve \(Reino Unido / desarrollador\)
+* Rob \(Australia / developer + sys admin\)  
+* Enrico \(Catalunya / developer + sys admin + community facilitator\)  
+* Steve \(UK / developer\)
 
-¡No dudes en ponerte en contacto con ellos en [Slack](https://app.slack.com/client/T02G54U79/D01AMG9678D/user_profile/U4M17H83Y) o en el [foro de la comunidad](https://community.openfoodnetwork.org/)!
+Feel free to contact them on [Slack](https://openfoodnetwork.slack.com) or through the [community forum](https://community.openfoodnetwork.org)!
 
