@@ -1,17 +1,18 @@
-# Our values
+# Nuestros valores
 
-We have collectively written a set of 9 values that drive our actions:  
-- Global Commons  
-- Relationships  
-- Ecosystems  
-- Transparency  
-- Empowerment  
-- Subsidiarity  
-- People first  
-- Constant evolution  
-- Systemic change
+Hemos escrito colectivamente un conjunto de 9 valores que impulsan nuestras acciones:
 
-You can discover and learn more about them [on the global OFN website](https://openfoodnetwork.org/about/values/) and through [that animation](https://prezi.com/tf6t5kkno790/view/#1).
+* Global Commons - Bienes comunes globales 
+* Relaciones
+* Ecosistemas
+* Transparencia
+* Empoderamiento
+* Subsidiariedad
+* La gente primero
+* Evolución constante
+* Cambio sistémico
+
+Puede descubrirlos y aprender más sobre ellos en el [sitio web global de OFN](https://www.openfoodnetwork.org/values/) y a través [de es](https://prezi.com/tf6t5kkno790/our-values/#1)[ta animación.](https://prezi.com/tf6t5kkno790/our-values/#1)
 
 ![](.gitbook/assets/capture-du-2018-08-08-16-14-38.png)
 
