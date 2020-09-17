@@ -2,7 +2,7 @@
 
 Hemos escrito colectivamente un conjunto de 9 valores que impulsan nuestras acciones:
 
-* Global Commons - Bienes comunes globales 
+* Global Commons - Patrimonio común global 
 * Relaciones
 * Ecosistemas
 * Transparencia
