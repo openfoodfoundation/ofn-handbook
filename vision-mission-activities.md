@@ -1,25 +1,25 @@
-# Vision, mission, activities
+# Visión, misión y actividades
 
-## The solution proposed by the Open Food Network
+## La solución propuesta por la Open Food Network
 
-If centralization and disconnection are the two root causes that break our food system, then the solution is ... **to decentralize and reconnect !**
+Si la centralización y la desconexión son las dos causas fundamentales que rompen nuestro sistema alimentario, entonces la solución es ... **¡descentralizar y reconectar!**
 
 ![Decentralize and reconnect... the mycelium image](.gitbook/assets/mycellium.png)
 
-### **Vision**
+### **Visión**
 
-We carry on the vision of a decentralized food system, made up with thousands of independent and diverse distribution hubs reconnecting producers to customers. A transparent food system where the flow of the food from farm to fork is made open, so we know who came in between, what margin they took, what value they added. We believe distribution is key as by structuring the demand and creating markets for local organic food, food hubs secure the installation of new producers, and the transition of conventional farmers toward regenerative agriculture practices. Production and distribution needs to move hand in hand, but it's harder for farmers to change if they are not secured about if they will be able or not to sell their products...
+Mantenemos la visión de un sistema alimentario descentralizado, compuesto por miles de centros de distribución independientes y diversos que reconectan a los productores con los clientes. Un sistema de alimentos transparente donde se expone el flujo de la comida de la granja a la mesa, para que sepamos quién estuvo en el medio, qué margen obtuvieron y qué valor agregaron. Creemos que la distribución es clave, ya que al estructurar la demanda y crear mercados para alimentos orgánicos locales, los centros de alimentos aseguran el surgimiento de nuevos productores y la transición de los agricultores convencionales hacia prácticas de agricultura regenerativa. La producción y la distribución deben ir de la mano, pero es más difícil para los agricultores cambiar si no están seguros de si podrán o no vender sus productos ...
 
-### Mission
+### Misión
 
-In order to support the move toward that vision, the Open Food Network mission is to enable and support the development and sustainability of sovereign and independent food hubs reconnecting producers and consumers all over the world.
+Para apoyar el movimiento hacia esa visión, la misión de Open Food Network es permitir y apoyar el desarrollo y la sostenibilidad de centros alimentarios soberanos e independientes reconectando a productores y consumidores de todo el mundo.
 
-### Activities
+### Actividades
 
-To do that, the OFN, through a global network of local communities and entities, provide tools, knowledge and support to food enterprises \(producers, hubs\) so that they can be more viable, resilient and efficient within the emergent value-driven food system.
+Para ello, la OFN, a través de una red global de comunidades y entidades locales, proporciona herramientas, conocimiento y apoyo a las empresas alimentarias \(productores y nodos\) para que puedan ser viables, resilientes y eficientes dentro de un sistema alimentario emergente impulsado por valores.
 
-Concretely, that means:
+Concretamente, eso significa:
 
-* we develop all together at a global scale the OFN software, share it open source, and local OFN communities deploy it and propose it through Saas services to their local ecosystem.  
-* we develop all together knowledge about how food hubs work, we share it open source, and local OFN communities use it to facilitate learning communities of food hubs and provide consulting services to support them.
+* Entre todos desarrollamos a escala global el software OFN, lo compartimos el código abierto y las comunidades OFN locales lo implementan y lo proponen a través de servicios Saas \(software como servicio\) a su ecosistema local. 
+* Entre todos desarrollamos el conocimiento sobre cómo funcionan los centros de alimentos, compartimos el código abierto y las comunidades OFN locales lo utilizan para facilitar comunidades de aprendizaje de los centros de alimentos y proporcionar servicios de consultoría para apoyarlos.
 
