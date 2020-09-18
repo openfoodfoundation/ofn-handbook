@@ -1,6 +1,6 @@
 # Los roles
 
-Hay muchas formas diferentes de contribuir al proyecto OFN. Inspirándonos en el modelo de la [holacracia](https://igipartners.com/read-holacracy-comic-book-free#page-1), diferenciamos a las personas de los roles que pueden desempeñar durante determinados periodos de tiempo. Una persona puede tener múltiples roles y un rol lo pueden cumplir muchas personas. Algunos roles se relacionan más con el nivel de un afiliado local. Otros más a nivel global. Algunas deben realizarse en ambos niveles, como la comunicación, por ejemplo.
+Hay muchas formas diferentes de contribuir al proyecto OFN. Inspirándonos en el modelo de la [holacracia](https://igipartners.com/read-holacracy-comic-book-free#page-1), diferenciamos a las personas de los roles que pueden desempeñar durante determinados periodos de tiempo. Una persona puede tener múltiples roles y un rol lo pueden cumplir muchas personas. Algunos roles se relacionan más con el nivel de un afiliado local. Otros más a nivel global. Algunos deben realizarse en ambos niveles, como la comunicación, por ejemplo.
 
 There are many different ways to contribute to the OFN project. Inspired by the [holacracy model](https://igipartners.com/read-holacracy-comic-book-free#page-1), we differentiate the people from the roles they can play for certain periods of time. A person can have multiple roles, and a role can be fulfilled by many persons. Some roles relate more to an local affiliate level. Others more to a global level. Some needs to be done at both levels, like communication for instance.
 
