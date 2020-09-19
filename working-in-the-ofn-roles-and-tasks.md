@@ -2,49 +2,51 @@
 
 Hay muchas formas diferentes de contribuir al proyecto OFN. Inspirándonos en el modelo de la [holacracia](https://igipartners.com/read-holacracy-comic-book-free#page-1), diferenciamos a las personas de los roles que pueden desempeñar durante determinados periodos de tiempo. Una persona puede tener múltiples roles y un rol lo pueden cumplir muchas personas. Algunos roles se relacionan más con el nivel de un afiliado local. Otros más a nivel global. Algunos deben realizarse en ambos niveles, como la comunicación, por ejemplo.
 
-## A nivel local \(entidad local OFN y comunidad\)
+There are many different ways to contribute to the OFN project. Inspired by the [holacracy model](https://igipartners.com/read-holacracy-comic-book-free#page-1), we differentiate the people from the roles they can play for certain periods of time. A person can have multiple roles, and a role can be fulfilled by many persons. Some roles relate more to an local affiliate level. Others more to a global level. Some needs to be done at both levels, like communication for instance.
 
-### Organización del servicio Saas en el software OFN
+## At local level \(local OFN entity & community\)
 
-#### Super administración de la plataforma OFN
+### Organizing the Saas service on the OFN software
 
-Este rol incluye todo lo que se relaciona con la configuración de la versión localizada de la plataforma: traducción en el idioma local, configuración del IVA \(impuesto al valor agregado\), configuración de la taxonomía, enlaces locales, configuración de una guía de usuario local, etc. [Hemos configurado una guía específica](https://ofn-user-guide.gitbook.io/ofn-super-admin-guide/) para que el superadministrador apoyarte en tu rol! Échale un vistazo :-\)
+#### Super administration of the OFN platform
 
-#### Soporte de usuario 
+This role includes all what relates to setting up the localized version of the platform: translation in local language, VAT setup, taxonomy setup, local links, setting up a local user guide, etc. We have setup a [specific guide for super-admin](https://ofn-user-guide.gitbook.io/ofn-super-admin-guide/) to support you in your role ! Check-it out :-\)
 
-Esta función incluye: informar errores en[ github](https://github.com/openfoodfoundation/openfoodnetwork/issues), seleccionar las necesidades que surgen de la comunidad e informarlas en la[ lista de deseos](https://community.openfoodnetwork.org/c/software-impovement/21) del foro de la comunidad \(que está gestionada por los propietarios de productos del equipo global; ver más abajo\)
+#### User support
 
-#### Administración del sistema
+This role includes: reporting bugs on [github](https://github.com/openfoodfoundation/openfoodnetwork/issues), curating needs that emerge from the community and report them in the community forum [wishlist](https://community.openfoodnetwork.org/c/software-impovement) \(which is curated by the Product Owners of the global team - see below\)
 
-Este rol incluye todo lo que se relaciona con la gestión de los servidores: asegurarse de que la plataforma esté funcionando, intervenir en caso de que surja algún problema, etc. Este rol  está cada vez más compartido a nivel global, pero algunos afiliados aún tienen recursos locales para cumplir con ese papel.
+#### System administration
 
-### Contribuyendo al desarrollo del sector
+This role includes all what relates to the management of the servers: making sure the platform is un and running, intervene in case there is an issues, etc. This role is now more and more mutualized at the global level, but some affiliates still have local ressources to fulfil that role.
 
-#### Servicios de formación y consultoría
+### Contributing to sector development
 
-Este rol se dedica principalmente a crear ofertas de capacitación y organizar sesiones para su comunidad local de nodos de alimentos existentes y potenciales y otras empresas alimentarias comunitarias. También ofrece servicios de consultoría para respaldar el establecimiento de nuevos nodos de alimentos o a mejorar el rendimiento de los existentes. Puede ser, por ejemplo, una formación o consultoría sobre estrategia de marketing o logística, incluyendo potencialmente alguna integración con la plataforma local OFN para configurar campañas de correo electrónico automatizadas, etc.
+#### Training and consulting services
 
-#### Investigación
+This role means mainly building training offers and organize sessions for your local community of existing and potential food hubs and other community food enterprise. And/or offer consulting services to support establishement of new food hubs, or increased performance of existing ones. It can be for example a training or consulting on marketing or logistic strategy, including potentially some integration with the OFN local platform to setup automated emailing campaigns, etc.
 
-Este rol se dedica a construir y contribuir a proyectos de investigación, escribir artículos, crear contenido y conocimiento que pueda apoyar el desarrollo del sector alimentario local sostenible.
+#### Research
 
-#### Programas de incubación
+This role is all about building and contributing to research projects, writing article, building content and knowledge that can support the development of local and sustainable food sector.
 
-Esta función consiste en crear programas que incluyan todas las dimensiones necesarias para crear un nodo de alimentos resiliente y de alto rendimiento. Los programas pueden entregarse durante una semana, o entregarse en sesiones semanales durante algunos meses, o incluir mentoría, etc. Para construir esos programas, este rol puede utilizar los diversos bienes comunes producidos por la comunidad global de OFN.
+#### Incubation programs
 
-### Gestionar la entidad y desarrollar la comunidad
+This role consists in building programs including all the dimension you need to build a performant and resilient food hub. Programs can be over a week, or based on weekly sessions for some months, or include some mentorship, etc. To build those programs, this role can use the various commons produced by the OFN global community.
 
-#### Construcción y facilitación de la comunidad
+### Managing the entity and develping the community
 
-Este rol incluye todo lo que concierne a atraer partes interesadas, usuarios, colaboradores, socios para integrar una comunidad fuerte y diversa donde las personas sientan que comparten valores y una visión común, y al mismo tiempo colaborar en proyectos relacionados con los bienes comunes globales. Construir y facilitar una comunidad local requiere algunas habilidades de facilitación en el sitio y / en virtual, para que todos se sientan bienvenidos, incluidos y puedan encontrar formas de participar en la comunidad de la manera que mejor se adapte a las personas. La facilitación comunitaria también está estrechamente relacionada con la gobernanza local y la forma en que incluimos a las partes interesadas en el proceso de toma de decisiones. En una organización distribuida e inclusiva, la documentación también es clave para que una comunidad prospere, ya que las reglas y códigos de la comunidad deben compartirse para que las personas puedan participar.
+#### Community building and facilitation
 
-#### Comunicación y mercadeo
+This role includes all what concerns attracting stakeholders, users, contributors, partners to federate a strong and diverse community where people feel they share values and some common vision, and want to collaborate and commons projects. Building and facilitating a local community requires some onsite and/on virtual facilitation skills, so that everyone feels welcome, included, and can find ways to participate to the community in the most adapted way. Community facilitation is also closely linked with local governance, and how we include stakeholders in the decision making process. In distributed and inclusive organisation, documentation is also key for a community to thrive, as the rules and codes of the community needs to be shared for people to be able to participate.
 
-Estos roles tienen todo que ver con la comunicación local, como boletines locales, campañas, redes sociales locales, relaciones con la prensa, participación y organización de eventos locales, presencia en línea, el voz a voz, estrategias de embajadores, etc. Apoya la construcción de la comunidad y ayuda a llegar a un número suficiente. de usuarios para que los bienes comunes se sostengan económicamente. 
+#### Communication & marketing
 
-#### Organización humana
+This roles is all about local communication, like local newsletter, campaigns, local social media, press relationship, participation and organisation of local events, online presence, word of mouth, ambassadors strategies, etc. It support community building and help reach a sufficient number of users for the commons to sustain itself economically.
 
-Like a "human resources" department, this role is about making sure the roles needed for the project to thrive are fulfilled, and deploying strategies to attracts and recruit the required skills and human energies. It's also about making sure workers \(volunteers or paid\) feel great while contributing to the project, learn, grow, and feel joyful. What we do out of love and joy will create joy and love, so it's important for us that people contributing to the project don't do things only because they can be paid for that, but because they are committed and love what we are all building together !
+#### Human organization
+
+Like a "human ressources" department, this role is about making sure the roles needed for the project to thrive are fulfilled, and deploying strategies to attracts and recruit the required skills and human energies. It's also about making sure workers \(volunteers or paid\) feel great while contributing to the project, learn, grow, and feel joyful. What we do out of love and joy will create joy and love, so it's important for us that people contributing to the project don't do things only because they can be paid for that, but because they are committed and love what we are all building together !
 
 #### Financial, legal and admin management
 
