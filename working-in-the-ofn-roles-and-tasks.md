@@ -74,9 +74,9 @@ Este rol es clave para garantizar la calidad general del software. Antes de que 
 
 Este rol incluye todo lo relacionado con la gestión de los servidores: asegurarse de que la plataforma esté funcionando, intervenir en caso de que haya algún problema, etc. Hemos organizado un equipo de administración del sistema global para asegurarnos de que podamos intervenir rápidamente en caso el servidor está inactivo y no se puede acceder a una plataforma OFN local.
 
-This role includes all what relates to the management of the servers: making sure the platform is un and running, intervene in case there is an issues, etc. We have organized a global sys admin team to make sure we can intervene quickly in case a server is down and a local OFN platform is unaccessible.
+#### Dueño del producto
 
-#### Product owner
+Este rol produce la interfaz entre los usuarios y los desarrolladores. Recibe la solicitud de los usuarios, analiza las necesidades, realiza una lluvia de ideas con los usuarios y desarrolladores sobre posibles soluciones, y cuando se ha elegido una solución colectivamente, se asegura de que lo desarrollado responda a la necesidad original una vez terminado. También se encarga de curar la enorme cantidad de necesidades informadas por los usuarios, de modo que contribuya a impulsar el proceso de priorización y encuentre formas de comunicar ese proceso a los usuarios para mitigar su frustración.
 
 This role makes the interface between the users and the developers. It receives the request of the users, analyse the needs, brainstorm with users and devs about potential solutions, and when a solution has been collectively chosen, make sure what is developped answer the original need once finished. It is also in charge to curate the massive amount of needs reported by users, so contribute to driving the priorization process, and find ways to communicate that process to users to mitigate their frustration.
 
