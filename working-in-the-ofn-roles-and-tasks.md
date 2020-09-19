@@ -32,7 +32,7 @@ This role is all about building and contributing to research projects, writing a
 
 This role consists in building programs including all the dimension you need to build a performant and resilient food hub. Programs can be over a week, or based on weekly sessions for some months, or include some mentorship, etc. To build those programs, this role can use the various commons produced by the OFN global community.
 
-### Managing the entity and develping the community
+### Managing the entity and developing the community
 
 #### Community building and facilitation
 
