@@ -78,7 +78,7 @@ Este rol incluye todo lo relacionado con la gestión de los servidores: asegurar
 
 Este rol produce la interfaz entre los usuarios y los desarrolladores. Recibe la solicitud de los usuarios, analiza las necesidades, realiza una lluvia de ideas con los usuarios y desarrolladores sobre posibles soluciones, y cuando se ha elegido una solución colectivamente, se asegura de que lo desarrollado responda a la necesidad original una vez terminado. También se encarga de categorizar y priorizar la enorme cantidad de necesidades reportadas por los usuarios y encontrar los medios para comunicar ese proceso a los usuarios para mitigar su frustración.
 
-#### Train triver
+#### Conductora/conductor de tren
 
 This role is more a "pipe coordination" role. When the product team has agreed on the next things to develop, the train driver will make sure the developments are moving forward and fixes and features are delivered on a regular pace, and nothing get stuck.
 
