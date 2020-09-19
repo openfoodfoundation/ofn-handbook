@@ -22,17 +22,15 @@ Este rol incluye todo lo que se relaciona con la gestión de los servidores: ase
 
 #### Servicios de formación y consultoría
 
-Este rol significa principalmente crear ofertas de capacitación y organizar sesiones para su comunidad local de centros alimentarios existentes y potenciales y otras empresas alimentarias comunitarias. Y / u ofrecer servicios de consultoría para respaldar el establecimiento de nuevos centros de alimentos o un mayor rendimiento de los existentes. Puede ser, por ejemplo, una formación o consultoría sobre estrategia de marketing o logística, incluida potencialmente alguna integración con la plataforma local OFN para configurar campañas de correo electrónico automatizadas, etc.
-
-This role means mainly building training offers and organize sessions for your local community of existing and potential food hubs and other community food enterprise. And/or offer consulting services to support the establishment of new food hubs, or increased performance of existing ones. It can be for example a training or consulting on marketing or logistic strategy, including potentially some integration with the OFN local platform to setup automated emailing campaigns, etc.
+Este rol se dedica principalmente a crear ofertas de capacitación y organizar sesiones para su comunidad local de nodos de alimentos existentes y potenciales y otras empresas alimentarias comunitarias. También ofrece servicios de consultoría para respaldar el establecimiento de nuevos nodos de alimentos o a mejorar el rendimiento de los existentes. Puede ser, por ejemplo, una formación o consultoría sobre estrategia de marketing o logística, incluyendo potencialmente alguna integración con la plataforma local OFN para configurar campañas de correo electrónico automatizadas, etc.
 
 #### Investigación
 
-Este rol se trata de construir y contribuir a proyectos de investigación, escribir artículos, crear contenido y conocimiento que puedan apoyar el desarrollo del sector alimentario local sostenible.
+Este rol se dedica a construir y contribuir a proyectos de investigación, escribir artículos, crear contenido y conocimiento que pueda apoyar el desarrollo del sector alimentario local sostenible.
 
-#### Incubation programs
+#### Programas de incubación
 
-This role consists in building programs including all the dimension you need to build a performant and resilient food hub. Programs can be over a week, or based on weekly sessions for some months, or include some mentorship, etc. To build those programs, this role can use the various commons produced by the OFN global community.
+Esta función consiste en crear programas que incluyan todas las dimensiones necesarias para crear un nodo de alimentos resiliente y de alto rendimiento. Los programas pueden entregarse durante una semana, o entregarse en sesiones semanales durante algunos meses, o incluir mentoría, etc. Para construir esos programas, este rol puede utilizar los diversos bienes comunes producidos por la comunidad global de OFN.
 
 ### Managing the entity and develping the community
 
