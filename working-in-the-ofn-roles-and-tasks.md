@@ -76,9 +76,7 @@ Este rol incluye todo lo relacionado con la gestión de los servidores: asegurar
 
 #### Dueño del producto
 
-Este rol produce la interfaz entre los usuarios y los desarrolladores. Recibe la solicitud de los usuarios, analiza las necesidades, realiza una lluvia de ideas con los usuarios y desarrolladores sobre posibles soluciones, y cuando se ha elegido una solución colectivamente, se asegura de que lo desarrollado responda a la necesidad original una vez terminado. También se encarga de curar la enorme cantidad de necesidades informadas por los usuarios, de modo que contribuya a impulsar el proceso de priorización y encuentre formas de comunicar ese proceso a los usuarios para mitigar su frustración.
-
-This role makes the interface between the users and the developers. It receives the request of the users, analyse the needs, brainstorm with users and devs about potential solutions, and when a solution has been collectively chosen, make sure what is developped answer the original need once finished. It is also in charge to curate the massive amount of needs reported by users, so contribute to driving the priorization process, and find ways to communicate that process to users to mitigate their frustration.
+Este rol produce la interfaz entre los usuarios y los desarrolladores. Recibe la solicitud de los usuarios, analiza las necesidades, realiza una lluvia de ideas con los usuarios y desarrolladores sobre posibles soluciones, y cuando se ha elegido una solución colectivamente, se asegura de que lo desarrollado responda a la necesidad original una vez terminado. También se encarga de categorizar y priorizar la enorme cantidad de necesidades reportadas por los usuarios y encontrar los medios para comunicar ese proceso a los usuarios para mitigar su frustración.
 
 #### Train triver
 
