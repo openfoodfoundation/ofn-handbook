@@ -32,7 +32,7 @@ This role is all about building and contributing to research projects, writing a
 
 This role consists in building programs including all the dimension you need to build a performant and resilient food hub. Programs can be over a week, or based on weekly sessions for some months, or include some mentorship, etc. To build those programs, this role can use the various commons produced by the OFN global community.
 
-### Managing the entity and develping the community
+### Managing the entity and developing the community
 
 #### Community building and facilitation
 
@@ -44,7 +44,7 @@ This roles is all about local communication, like local newsletter, campaigns, l
 
 #### Human organization
 
-Like a "human ressources" department, this role is about making sure the roles needed for the project to thrive are fulfilled, and deploying strategies to attracts and recruit the required skills and human energies. It's also about making sure workers \(volunteers or paid\) feel great while contributing to the project, learn, grow, and feel joyful. What we do out of love and joy will create joy and love, so it's important for us that people contributing to the project don't do things only because they can be paid for that, but because they are committed and love what we are all building together !
+Like a "human resources" department, this role is about making sure the roles needed for the project to thrive are fulfilled, and deploying strategies to attracts and recruit the required skills and human energies. It's also about making sure workers \(volunteers or paid\) feel great while contributing to the project, learn, grow, and feel joyful. What we do out of love and joy will create joy and love, so it's important for us that people contributing to the project don't do things only because they can be paid for that, but because they are committed and love what we are all building together !
 
 #### Financial, legal and admin management
 
