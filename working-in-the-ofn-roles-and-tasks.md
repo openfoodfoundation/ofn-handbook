@@ -2,33 +2,33 @@
 
 Hay muchas formas diferentes de contribuir al proyecto OFN. Inspirándonos en el modelo de la [holacracia](https://igipartners.com/read-holacracy-comic-book-free#page-1), diferenciamos a las personas de los roles que pueden desempeñar durante determinados periodos de tiempo. Una persona puede tener múltiples roles y un rol lo pueden cumplir muchas personas. Algunos roles se relacionan más con el nivel de un afiliado local. Otros más a nivel global. Algunos deben realizarse en ambos niveles, como la comunicación, por ejemplo.
 
-There are many different ways to contribute to the OFN project. Inspired by the [holacracy model](https://igipartners.com/read-holacracy-comic-book-free#page-1), we differentiate the people from the roles they can play for certain periods of time. A person can have multiple roles, and a role can be fulfilled by many persons. Some roles relate more to an local affiliate level. Others more to a global level. Some needs to be done at both levels, like communication for instance.
+## A nivel local \(entidad local OFN y comunidad\)
 
-## At local level \(local OFN entity & community\)
+### Organización del servicio Saas en el software OFN
 
-### Organizing the Saas service on the OFN software
+#### Super administración de la plataforma OFN
 
-#### Super administration of the OFN platform
+Este rol incluye todo lo que se relaciona con la configuración de la versión localizada de la plataforma: traducción en el idioma local, configuración del IVA \(impuesto al valor agregado\), configuración de la taxonomía, enlaces locales, configuración de una guía de usuario local, etc. [Hemos configurado una guía específica](https://ofn-user-guide.gitbook.io/ofn-super-admin-guide/) para que el superadministrador apoyarte en tu rol! Échale un vistazo :-\)
 
-This role includes all what relates to setting up the localized version of the platform: translation in local language, VAT setup, taxonomy setup, local links, setting up a local user guide, etc. We have setup a [specific guide for super-admin](https://ofn-user-guide.gitbook.io/ofn-super-admin-guide/) to support you in your role ! Check-it out :-\)
+#### Soporte de usuario 
 
-#### User support
+Esta función incluye: informar errores en[ github](https://github.com/openfoodfoundation/openfoodnetwork/issues), seleccionar las necesidades que surgen de la comunidad e informarlas en la[ lista de deseos](https://community.openfoodnetwork.org/c/software-impovement/21) del foro de la comunidad \(que está gestionada por los propietarios de productos del equipo global; ver más abajo\)
 
-This role includes: reporting bugs on [github](https://github.com/openfoodfoundation/openfoodnetwork/issues), curating needs that emerge from the community and report them in the community forum [wishlist](https://community.openfoodnetwork.org/c/software-impovement) \(which is curated by the Product Owners of the global team - see below\)
+#### Administración del sistema
 
-#### System administration
+Este rol incluye todo lo que se relaciona con la gestión de los servidores: asegurarse de que la plataforma esté funcionando, intervenir en caso de que surja algún problema, etc. Este rol  está cada vez más compartido a nivel global, pero algunos afiliados aún tienen recursos locales para cumplir con ese papel.
 
-This role includes all what relates to the management of the servers: making sure the platform is un and running, intervene in case there is an issues, etc. This role is now more and more mutualized at the global level, but some affiliates still have local ressources to fulfil that role.
+### Contribuyendo al desarrollo del sector
 
-### Contributing to sector development
+#### Servicios de formación y consultoría
 
-#### Training and consulting services
+Este rol significa principalmente crear ofertas de capacitación y organizar sesiones para su comunidad local de centros alimentarios existentes y potenciales y otras empresas alimentarias comunitarias. Y / u ofrecer servicios de consultoría para respaldar el establecimiento de nuevos centros de alimentos o un mayor rendimiento de los existentes. Puede ser, por ejemplo, una formación o consultoría sobre estrategia de marketing o logística, incluida potencialmente alguna integración con la plataforma local OFN para configurar campañas de correo electrónico automatizadas, etc.
 
-This role means mainly building training offers and organize sessions for your local community of existing and potential food hubs and other community food enterprise. And/or offer consulting services to support establishement of new food hubs, or increased performance of existing ones. It can be for example a training or consulting on marketing or logistic strategy, including potentially some integration with the OFN local platform to setup automated emailing campaigns, etc.
+This role means mainly building training offers and organize sessions for your local community of existing and potential food hubs and other community food enterprise. And/or offer consulting services to support the establishment of new food hubs, or increased performance of existing ones. It can be for example a training or consulting on marketing or logistic strategy, including potentially some integration with the OFN local platform to setup automated emailing campaigns, etc.
 
-#### Research
+#### Investigación
 
-This role is all about building and contributing to research projects, writing article, building content and knowledge that can support the development of local and sustainable food sector.
+Este rol se trata de construir y contribuir a proyectos de investigación, escribir artículos, crear contenido y conocimiento que puedan apoyar el desarrollo del sector alimentario local sostenible.
 
 #### Incubation programs
 
