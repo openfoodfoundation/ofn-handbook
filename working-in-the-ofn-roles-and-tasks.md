@@ -32,19 +32,19 @@ Este rol se dedica a construir y contribuir a proyectos de investigación, escri
 
 Esta función consiste en crear programas que incluyan todas las dimensiones necesarias para crear un nodo de alimentos resiliente y de alto rendimiento. Los programas pueden entregarse durante una semana, o entregarse en sesiones semanales durante algunos meses, o incluir mentoría, etc. Para construir esos programas, este rol puede utilizar los diversos bienes comunes producidos por la comunidad global de OFN.
 
-### Managing the entity and develping the community
+### Gestionar la entidad y desarrollar la comunidad
 
-#### Community building and facilitation
+#### Construcción y facilitación de la comunidad
 
-This role includes all what concerns attracting stakeholders, users, contributors, partners to federate a strong and diverse community where people feel they share values and some common vision, and want to collaborate and commons projects. Building and facilitating a local community requires some onsite and/on virtual facilitation skills, so that everyone feels welcome, included, and can find ways to participate to the community in the most adapted way. Community facilitation is also closely linked with local governance, and how we include stakeholders in the decision making process. In distributed and inclusive organisation, documentation is also key for a community to thrive, as the rules and codes of the community needs to be shared for people to be able to participate.
+Este rol incluye todo lo que concierne a atraer partes interesadas, usuarios, colaboradores, socios para integrar una comunidad fuerte y diversa donde las personas sientan que comparten valores y una visión común, y al mismo tiempo colaborar en proyectos relacionados con los bienes comunes globales. Construir y facilitar una comunidad local requiere algunas habilidades de facilitación en el sitio y / en virtual, para que todos se sientan bienvenidos, incluidos y puedan encontrar formas de participar en la comunidad de la manera que mejor se adapte a las personas. La facilitación comunitaria también está estrechamente relacionada con la gobernanza local y la forma en que incluimos a las partes interesadas en el proceso de toma de decisiones. En una organización distribuida e inclusiva, la documentación también es clave para que una comunidad prospere, ya que las reglas y códigos de la comunidad deben compartirse para que las personas puedan participar.
 
-#### Communication & marketing
+#### Comunicación y mercadeo
 
-This roles is all about local communication, like local newsletter, campaigns, local social media, press relationship, participation and organisation of local events, online presence, word of mouth, ambassadors strategies, etc. It support community building and help reach a sufficient number of users for the commons to sustain itself economically.
+Estos roles tienen todo que ver con la comunicación local, como boletines locales, campañas, redes sociales locales, relaciones con la prensa, participación y organización de eventos locales, presencia en línea, el voz a voz, estrategias de embajadores, etc. Apoya la construcción de la comunidad y ayuda a llegar a un número suficiente. de usuarios para que los bienes comunes se sostengan económicamente. 
 
-#### Human organization
+#### Organización humana
 
-Like a "human ressources" department, this role is about making sure the roles needed for the project to thrive are fulfilled, and deploying strategies to attracts and recruit the required skills and human energies. It's also about making sure workers \(volunteers or paid\) feel great while contributing to the project, learn, grow, and feel joyful. What we do out of love and joy will create joy and love, so it's important for us that people contributing to the project don't do things only because they can be paid for that, but because they are committed and love what we are all building together !
+Like a "human resources" department, this role is about making sure the roles needed for the project to thrive are fulfilled, and deploying strategies to attracts and recruit the required skills and human energies. It's also about making sure workers \(volunteers or paid\) feel great while contributing to the project, learn, grow, and feel joyful. What we do out of love and joy will create joy and love, so it's important for us that people contributing to the project don't do things only because they can be paid for that, but because they are committed and love what we are all building together !
 
 #### Financial, legal and admin management
 
