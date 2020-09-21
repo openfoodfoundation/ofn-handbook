@@ -7,7 +7,7 @@
 * [Nuestros valores](our-values.md)
 * [El Equipo](the-team.md)
 * [Los roles](working-in-the-ofn-roles-and-tasks.md)
-* [Governance and organizational processes](working-on-the-ofn-governance/README.md)
+* [Procesos organizativos y de gobernanza](working-on-the-ofn-governance/README.md)
   * [Legal model](working-on-the-ofn-governance/legal-model.md)
   * [Economic model](working-on-the-ofn-governance/economic-model.md)
   * [Decision making process](working-on-the-ofn-governance/decision-making-process.md)
