@@ -42,9 +42,9 @@ Usually what we really want is to talk to a human! Within the OFN community we d
 
 The [Instance Managers](https://openfoodnetwork.slack.com/messages/CG7NJ966B) channel is the best place to start if you are asking general questions about how to use OFN. Members of this channel include both experienced and inexperienced instance managers that can answer almost every question you have. If you are relatively new to OFN the chances are that the ‘bug’ you have spotted is actually a ‘feature’. In this channel we can help figure that out.
 
-The [Bugs](https://openfoodnetwork.slack.com/messages/CDLKH9MM0) channel is the best place to discuss bugs with product managers and experienced instance managers before reporting them in Github. Members of this channel include both experienced instance managers and product managers, both of whom have a good understanding of the platform. If you would not consider yourself an experienced instance manager or product manager of OFN then it is best to ask your question in the Instance Manager channel first. 
+This channel is also the best place to discuss bugs with product managers and experienced instance managers before reporting them in Github. Members of this channel include both experienced instance managers and product managers, both of whom have a good understanding of the platform. 
 
-Once it has been confirmed on the Bugs channel that you have found a new bug, please create this bug on github following the template [here](https://github.com/openfoodfoundation/openfoodnetwork/issues/new).
+Once an issue has been confirmed on the Instance Managers channel, a new issue can be created in Github using the template here. [here](https://github.com/openfoodfoundation/openfoodnetwork/issues/new). Generally this will be done by the product team and more expereinced instance managers.
 
 The [Dev](https://openfoodnetwork.slack.com/messages/C2GQ45KNU) channel is a place for developers to help each other with technical questions. It contains developers and other members of the delivery pipe. This channel tends to be a busy channel and hence is not the best place for anything other than strictly technical questions. If your question is more about using OFN, navigating the UI or figuring out if your issue is a bug or not then it is best to use the Instance Managers channel as a first port of call.
 
