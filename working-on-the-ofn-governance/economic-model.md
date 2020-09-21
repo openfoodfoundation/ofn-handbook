@@ -1,34 +1,35 @@
-# Economic model
+# Modelo Económico
 
-The economic model of the Open Food Network can be described at two different levels. Indeed, some resources are needed to develop the shared OFN software, and some resources are needed to provide support to users and pay for servers costs. Those don't happen at the same layer.
+El modelo económico de Open Food Network se puede describir en dos niveles diferentes. De hecho, se necesitan algunos recursos para desarrollar el software OFN compartido, y se necesitan algunos recursos para brindar soporte a los usuarios y pagar los costos de los servidores. Eso no sucede en el mismo nivel. 
 
-## The economic model of the global Open Food Network
+## El modelo económico de la Open Food Network 
 
-### Our global costs
+### Nuestros costos globales 
 
-At the global level, there are people working in the global team on:  
-- **product development**: developers, testers, UX designers, product owners doing feature specification, train drivers ensuring that developments move forward, curators that sort out the mess of all those priority things that we need to do... On this team, mainly the developers are paid until know and a bit the testers.  
-- **global communication**: building and maintaining the global Open Food Network website. There is a work being done to separate the globale website from the Australian website, as the project was launched in Australia so info site is till use for both global and Australia for the moment. This role has been partially paid.  
-- **community facilitation**: there are people active on welcoming and onboarding new contributors, answering people who want info about the OFN, supporting people who want to develop an OFN local entity where they live, etc. Those community facilitators are volunteers until now.  
-- later on we will probably have more people working on **learning communities and global research** but for now we are doing that more locally.
+A nivel global, hay personas que trabajan en:
 
-**Our objective is to be able to pay the contributors who create value for the global commons, that benefit the whole OFN ecosystem**. We are not there yet, but that is our aim so we want to build a sustainable business model to achieve that.
+* **desarrollo de productos:** desarrolladores, evaluadores \(testers\), diseñadores de UX, propietarios de productos que realizan especificaciones de funciones, conductores de trenes que se aseguran de que los desarrollos avancen, curadores que ordenan las prioridades de lo que debemos hacer ... En este equipo, por ahora les pagamos principalmente a los desarrolladores y algo a los evaluadores \(testers\).
+* **comunicación global:** construcción y mantenimiento del sitio web global de Open Food Network. Se está trabajando para separar el sitio web global del sitio web australiano, ya que el proyecto se lanzó en Australia, por lo que el sitio de información se está utilizando tanto para el mundo global como para Australia por el momento. Hemos pagado por esta tarea parcialmente.
+* **Facilitación comunitaria:** hay personas activas en dar la bienvenida e incorporar nuevos colaboradores, responder a personas que quieren información sobre la OFN, apoyar a las personas que quieren desarrollar una entidad local OFN donde viven, etc. Esos facilitadores comunitarios son voluntarios hasta ahora.
+* Más adelante probablemente tendremos más personas trabajando **en comunidades de aprendizaje e investigación global,** pero por ahora lo estamos haciendo de manera más local.
 
-On top of people wages, we also need to pay for some tools at the global level, like Toggl that we use for time tracking, or Matomo that we use for traffic analysis on all the local websites. We also cover some expenses linked to the global gatherings we organise once or twice a year since 2017.
+**Nuestro objetivo es poder pagar a los colaboradores que crean valor para los bienes comunes globales, que benefician a todo el ecosistema OFN**. Aún no estamos allí, pero ese es nuestro objetivo, por lo que queremos construir un modelo de negocio sostenible para lograrlo.
 
-Taking all that into account, we need probably around 400K€ at a very minimum every year for our project to move forward at a reasonable pace. That means 300K€ for the global product development team \(we counted 3 devs 3 days per week + for each day of dev, 1/3 day testing, 1/3 day UX and 2/3 days product owner and train drivers\) + 100K€ for the other roles and costs altogether.
+Además de los salarios de las personas, también debemos pagar por algunas herramientas a nivel mundial, como Toggl que usamos para el seguimiento del tiempo o Matomo que usamos para el análisis del tráfico en todos los sitios web locales. También cubrimos algunos gastos relacionados con los encuentros globales que organizamos una o dos veces al año desde 2017.
 
-### Our global revenues
+Teniendo todo eso en cuenta, probablemente necesitemos alrededor de 400K € como mínimo cada año para que nuestro proyecto avance a un ritmo razonable. Eso significa 300K € para el equipo de desarrollo de producto global \(contamos con 3 desarrolladores 3 días a la semana + por cada día de desarrollo, 1/3 de prueba, 1/3 de UX y 2/3 días de propietario de producto y conductores de tren\) + 100K € para las demás funciones y costos en conjunto.
 
-Revenues at global level only comes until now from local entities having found grants and fuel back money into developing the OFN software. Local instances need to build sustainable business models and not rely on grants, but **global level will always be financed by local entities contributing in financing the improvement of the shared global commons they use**.
+### Nuestros ingresos globales
 
-Ideally, our target would be that local OFN entities give back at least 40% of their revenue to co-finance platform improvement. Development costs are huge in a tech company, and we need a consequent cashflow to maintain our commons. For now we have not yet formalised a % that every local instance should allocate to financing the global commons, but we all want to make it work.
+Los ingresos a nivel mundial hasta ahora solo provienen de entidades locales que han encontrado subvenciones \(grants\) y nos respaldan para desarrollar el software OFN. Las instancias locales necesitan construir modelos de negocios sostenibles y no depender de subvenciones, **pero el nivel global siempre será financiado por entidades locales que contribuyan a financiar la mejora de los bienes comunes globales compartidos que utilizan.** 
+
+Idealmente, nuestro objetivo sería que las entidades OFN locales devuelvan al menos el 40% de sus ingresos para cofinanciar la mejora de la plataforma. Los costos de desarrollo son enormes en una empresa de tecnología y necesitamos un flujo de caja consecuente para mantener nuestros bienes comunes. Por ahora aún no hemos formalizado un porcentaje que toda instancia local debería destinar a la financiación de los bienes comunes globales, pero todos queremos que funcione.
 
 ![](../.gitbook/assets/cofinance-english-1.jpg)
 
-### Managing global budget and expenses
+### Gestionar el presupuesto y los gastos globales 
 
-As we said, there is no "global entity" with a bank account. What's more, contributors are spread all over the world, so invoice in different currencies. So we are keeping track of our global budget and expenses today [on this spreadsheet](https://docs.google.com/spreadsheets/d/1EjDgQOGMAePgyvWv8gyIPgLPnvieWoWXO0bUzkz4pPA/edit?usp=sharing). We have local entities promising money to global budget, then actually affecting in their own local accounting that money to global pool. It's a "promise to pay until that level for the things to come". Every contributor and tools cost is taken in charge by a local entity, so they directly pay those invoices and capture what they have paid in that global spreadsheet. That way, we know real time what remains in our global wallet.
+Como dijimos, no existe una "entidad global" con una cuenta bancaria. Además, los contribuyentes están repartidos por todo el mundo, por lo que facturan en diferentes monedas. Por lo tanto, estamos r haciendo un seguimiento de nuestro presupuesto y gastos globales hoy [en esta hoja de cálculo](https://docs.google.com/spreadsheets/d/1EjDgQOGMAePgyvWv8gyIPgLPnvieWoWXO0bUzkz4pPA/edit). Tenemos entidades locales que prometen dinero para el presupuesto global, y luego asignan en su propia contabilidad local ese dinero al fondo común. Es una "promesa de pagar hasta ese nivel por lo que vendrá". Cada colaborador y el costo de las herramientas lo asume alguna entidad local, y pagan directamente esas facturas y reportan lo que han pagado en esa hoja de cálculo global. De esa manera, sabemos en tiempo real lo que queda en nuestra billetera global.
 
 ## The economic model of a local OFN affiliate
 
