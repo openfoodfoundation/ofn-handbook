@@ -8,7 +8,7 @@
 * [El Equipo](the-team.md)
 * [Los roles](working-in-the-ofn-roles-and-tasks.md)
 * [Procesos organizativos y de gobernanza](working-on-the-ofn-governance/README.md)
-  * [Legal model](working-on-the-ofn-governance/legal-model.md)
+  * [Modelo Legal](working-on-the-ofn-governance/legal-model.md)
   * [Modelo Económico](working-on-the-ofn-governance/economic-model.md)
   * [Decision making process](working-on-the-ofn-governance/decision-making-process.md)
   * [Team organization](working-on-the-ofn-governance/team-organization/README.md)
