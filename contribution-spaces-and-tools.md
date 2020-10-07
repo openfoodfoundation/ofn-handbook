@@ -10,8 +10,7 @@ This document is intended to help instance managers and OFN contributors to find
 
 Over the years we’ve collected and collated instructions for almost every task you can imagine within OFN.
 
-[Our User Guide](https://guide.openfoodnetwork.org/) contains detailed instructions and pictures for enterprises using OFN. It is a great resource when getting your head around the functionality and can also be shared with users directly.  
-
+[Our User Guide](https://guide.openfoodnetwork.org/) contains detailed instructions and pictures for enterprises using OFN. It is a great resource when getting your head around the functionality and can also be shared with users directly.
 
 The [OFN Handbook](https://ofn-user-guide.gitbook.io/ofn-handbook/) is our single point of truth about the processes currently applied in the community. It is a support for anyone who wants to understand what is OFN and how we are organized as a community.
 
@@ -31,8 +30,7 @@ The [Software Improvement](https://community.openfoodnetwork.org/c/software-impo
 
 The research community in OFN use the [Research category.](https://community.openfoodnetwork.org/c/research)
 
-A number of instances have their own forums for their local community. Find [Australia’s Fair Food Forum](https://fairfoodforum.org.au), the [OFN UK Community](http://community.openfoodnetwork.org.uk) and the [Open Food France Forum](https://forums.openfoodfrance.org/).  
-
+A number of instances have their own forums for their local community. Find [Australia’s Fair Food Forum](https://fairfoodforum.org.au), the [OFN UK Community](http://community.openfoodnetwork.org.uk) and the [Open Food France Forum](https://forums.openfoodfrance.org/).
 
 ## Our Live Chat
 
@@ -42,7 +40,7 @@ Usually what we really want is to talk to a human! Within the OFN community we d
 
 The [Instance Managers](https://openfoodnetwork.slack.com/messages/CG7NJ966B) channel is the best place to start if you are asking general questions about how to use OFN. Members of this channel include both experienced and inexperienced instance managers that can answer almost every question you have. If you are relatively new to OFN the chances are that the ‘bug’ you have spotted is actually a ‘feature’. In this channel we can help figure that out.
 
-This channel is also the best place to discuss bugs with product managers and experienced instance managers before reporting them in Github. Members of this channel include both experienced instance managers and product managers, both of whom have a good understanding of the platform. 
+This channel is also the best place to discuss bugs with product managers and experienced instance managers before reporting them in Github. Members of this channel include both experienced instance managers and product managers, both of whom have a good understanding of the platform.
 
 Once an issue has been confirmed on the Instance Managers channel, a new issue can be created in Github using the template here. [here](https://github.com/openfoodfoundation/openfoodnetwork/issues/new). Generally this will be done by the product team and more expereinced instance managers.
 
@@ -50,8 +48,7 @@ The [Dev](https://openfoodnetwork.slack.com/messages/C2GQ45KNU) channel is a pla
 
 There are many other channels for specific features and work areas of OFN that might be useful too. You can find others interested in specific topics \(eg [Research](https://openfoodnetwork.slack.com/messages/C9RLAHRF0), [User Experience](https://openfoodnetwork.slack.com/messages/CC5CW0AJW), [CSAs](https://openfoodnetwork.slack.com/messages/C8QG769DZ), [Communications](https://openfoodnetwork.slack.com/messages/C4LJU6M35)\) or find people from a specific instance \(eg France, Katuma, Australia, South Africa, USA, UK\). Try searching for the topic!
 
-If you are still unsure where to go to find the answers to your questions try posting to the [General channel in Slack](https://join.slack.com/t/openfoodnetwork/shared_invite/zt-9sjkjdlu-r02kUMP1zbrTgUhZhYPF~A). Someone in the community will get back to you quickly to point you in the right direction.  
-
+If you are still unsure where to go to find the answers to your questions try posting to the [General channel in Slack](https://join.slack.com/t/openfoodnetwork/shared_invite/zt-9sjkjdlu-r02kUMP1zbrTgUhZhYPF~A). Someone in the community will get back to you quickly to point you in the right direction.
 
 ## General Information and Documents
 
@@ -81,8 +78,7 @@ Get in touch with your local OFN instance or [Contact Us](https://ofn-user-guide
 We can invite you to join our researcher community on Slack to find out what everyone else is studying and exploring.
 
 **For technical contributors...**  
-To get started take a look at our Github wiki and Handbook. Then when you are ready [Contact Us](https://ofn-user-guide.gitbook.io/ofn-handbook/contact-us) or [join our Slack](https://join.slack.com/t/openfoodnetwork/shared_invite/zt-9sjkjdlu-r02kUMP1zbrTgUhZhYPF~A).   
-
+To get started take a look at our Github wiki and Handbook. Then when you are ready [Contact Us](https://ofn-user-guide.gitbook.io/ofn-handbook/contact-us) or [join our Slack](https://join.slack.com/t/openfoodnetwork/shared_invite/zt-9sjkjdlu-r02kUMP1zbrTgUhZhYPF~A).
 
 **For other potential contributors….**  
 To get started take a look at our Handbook. Then when you are ready [Contact Us](https://ofn-user-guide.gitbook.io/ofn-handbook/contact-us) or [join our Slack](https://join.slack.com/t/openfoodnetwork/shared_invite/enQtMzU2Mjk5MDc2MjA5LTM4ZTAzZjIwNzIxMmU5ODFiNWY1MTU2ZWUyNzQwNjdjNTY0N2VhY2UwOGU4ZmVjNzYyZDU2NjY3NzZkZmQwYjk).
@@ -95,8 +91,7 @@ If you are interested in contributing to [OFN visit this page.](https://ofn-user
 
 If you are interested in getting set up as an [OFN developer visit this wiki.](https://github.com/openfoodfoundation/openfoodnetwork/wiki)
 
-If you are looking for more info on [OFN Feature Testing visit this page](https://github.com/openfoodfoundation/openfoodnetwork/wiki/Feature-Testing-Handbook).  
-
+If you are looking for more info on [OFN Feature Testing visit this page](https://github.com/openfoodfoundation/openfoodnetwork/wiki/Feature-Testing-Handbook).
 
 And, of course, if you are interested in becoming part of the community [Contact Us](https://ofn-user-guide.gitbook.io/ofn-handbook/contact-us)!
 
