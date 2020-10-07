@@ -1,6 +1,6 @@
-# Introduction
+# Introducción
 
-The aim of this handbook is to explain how the OFN community works to the people who are developing OFN communities and products worldwide. We'll explain in here what is the Open Food Network, what is the context that motivated the project, what is our vision, what are our values. What do we do concretely. Who is the OFN team, and what are the roles the people are fulfilling while working in OFN. We will also explain the governance, economic and legal models of the OFN, and how we concretly operate as a team, our processes.
+El objetivo de este manual es explicar cómo funciona la comunidad OFN a las personas que están desarrollando comunidades y productos OFN en todo el mundo. Aquí les explicaremos qué es Open Food Network, cuál es el contexto que motivó el proyecto, cuál es nuestra visión y cuáles son nuestros valores. Les contaremos quién hacen parte del equipo de OFN y cuáles son los roles de las personas que trabajan en OFN. También les explicaremos los modelos de gobernanza, y los modelos económicos y legales de la OFN, cómo operamos en equipo y cuales son nuestros procesos. 
 
-We hope you enjoy ! If you have any suggestion or want to contact us, write to hello@openfoodnetwork.org.
+¡Esperamos que lo disfrutes! Si tienes alguna sugerencia o quieres contactarnos, escríbenos a hello@openfoodnetwork.org
 
