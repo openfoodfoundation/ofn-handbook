@@ -8,7 +8,7 @@ The philosophy behind the value redistribution process is that the value generat
 
   For that we are inspired by the Japanese “ShuHaRi” experience level system. “Shu” is a beginner, “Ha” intermediate and “Ri” master. Those are levels in mastering an art. It seems fair that a “Shu” is not paid as much as a “Ri” as with the same time spent, a “Ri” will create more value for the project than a “Shu”.  
   In OFN, we consider that:  
-  - a "Ri" contributor has over 3 years of experience in his domain and over 6 months in OFN  
+  - a "Ri" contributor has over 3 years of experience in their domain and over 6 months in OFN  
   - a "Shu" meet none of those 2 criteria  
   - a "Ha" meets one of those 2 criteria
 
