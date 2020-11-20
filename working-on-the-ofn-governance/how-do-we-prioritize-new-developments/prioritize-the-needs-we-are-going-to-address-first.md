@@ -13,8 +13,8 @@ Open an issue on Github. When you create an issue, you will see a default templa
 ### **3- How do we curate bugs?**
 
 The train drivers of the OFN will treat the new bugs the following way:  
-a- Every new bug is added to the "Bug backlog" visible on the zenhub view and prioritized on a lasy consent mode. This can also be done by the person who reports the bug.  
+a- Every new bug is added to the "Bug backlog" visible on the zenhub view and prioritized on a lazy consent mode. This can also be done by the person who reports the bug.  
 b- The product owners and train driver will make sure the solution is clear enough. If an inception is needed to clarify the job to be done, they will ensure it is done.   
 c- The train driver will make sure that 5 bugs are always prioritized in the delivery pipe \(dev ready column\) and will ensure bugs are regularly worked on.  
-d- For s1 or s2 bugs, as soon as the bug is reported, they will add a mesage on the \#dev channel on Slack to make sure the first developer available work on it as soon as possible and will be put at the top of the dev-readu column.
+d- For s1 or s2 bugs \(most severe bugs\), as soon as the bug is reported, they will add a mesage on the \#dev channel on Slack to make sure the first developer available work on it as soon as possible and will be put at the top of the dev-ready column.
 

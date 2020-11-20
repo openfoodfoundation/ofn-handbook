@@ -16,7 +16,7 @@ This role includes: reporting bugs on [github](https://github.com/openfoodfounda
 
 #### System administration
 
-This role includes all what relates to the management of the servers: making sure the platform is un and running, intervene in case there is an issues, etc. This role is now more and more mutualized at the global level, but some affiliates still have local ressources to fulfil that role.
+This role includes all what relates to the management of the servers: making sure the platform is up and running, intervene in case there is an issues, etc. This role is now more and more mutualized at the global level, but some affiliates still have local ressources to fulfil that role.
 
 ### Contributing to sector development
 
@@ -36,7 +36,7 @@ This role consists in building programs including all the dimension you need to 
 
 #### Community building and facilitation
 
-This role includes all what concerns attracting stakeholders, users, contributors, partners to federate a strong and diverse community where people feel they share values and some common vision, and want to collaborate and commons projects. Building and facilitating a local community requires some onsite and/on virtual facilitation skills, so that everyone feels welcome, included, and can find ways to participate to the community in the most adapted way. Community facilitation is also closely linked with local governance, and how we include stakeholders in the decision making process. In distributed and inclusive organisation, documentation is also key for a community to thrive, as the rules and codes of the community needs to be shared for people to be able to participate.
+This role includes all what concerns attracting stakeholders, users, contributors, partners to federate a strong and diverse community where people feel they share values and some common vision, and want to collaborate and commons projects. Building and facilitating a local community requires some onsite and/or virtual facilitation skills, so that everyone feels welcome, included, and can find ways to participate to the community in the most adapted way. Community facilitation is also closely linked with local governance, and how we include stakeholders in the decision making process. In distributed and inclusive organisation, documentation is also key for a community to thrive, as the rules and codes of the community needs to be shared for people to be able to participate.
 
 #### Communication & marketing
 
@@ -44,7 +44,7 @@ This roles is all about local communication, like local newsletter, campaigns, l
 
 #### Human organization
 
-Like a "human resources" department, this role is about making sure the roles needed for the project to thrive are fulfilled, and deploying strategies to attracts and recruit the required skills and human energies. It's also about making sure workers \(volunteers or paid\) feel great while contributing to the project, learn, grow, and feel joyful. What we do out of love and joy will create joy and love, so it's important for us that people contributing to the project don't do things only because they can be paid for that, but because they are committed and love what we are all building together !
+Like a "human resources" department, this role is about making sure the roles needed for the project to thrive are fulfilled, and deploying strategies to attracts and recruit the required skills and human energies. It's also about making sure workers \(volunteers or paid\) feel great while contributing to the project, learn, grow, and feel joyful. What we do out of love and joy will create joy and love, so it's important for us that people contributing to the project don't do things only because they can be paid for that, but because they are committed and love what we are all building together!
 
 #### Financial, legal and admin management
 
@@ -60,7 +60,7 @@ This role is all about finding money to be able to pay people so they can dedica
 
 #### Development
 
-This role is all about the technical development of the software, which includes coding, code review, merging and releasing. Developers will fix bugs, solve technical debts, maintain the APIs \(connector that enable to communicate with other software\) and build new features in close relationship with the product owner. So they ensure both the maintenance and the improvement of the software.
+This role is all about the technical development of the software, which includes coding, code review, merging and releasing. Developers will fix bugs, solve technical debts, maintain the APIs \(connectors that enable to communicate with other software\) and build new features in close relationship with the product owner. So they ensure both the maintenance and the improvement of the software.
 
 #### UX design
 
@@ -68,19 +68,19 @@ This role is closely linked to the development role, and product owner. The UX d
 
 #### Testing
 
-This role is key to ensure the general quality of the software. Before a new release is deployed in production and accessible to users through the various local OFN platforms, testers will check that the release doesn't break anything. For any piece of code added, testers will check that the feature this code is supposed to bring is functionnal and that nothing else has been affected. We want to prevent any regression with a new deployment of a release in a local platform.
+This role is key to ensure the general quality of the software. Before a new release is deployed in production and accessible to users through the various local OFN platforms, testers will check that the release doesn't break anything. For any piece of code added, testers will check that the feature this code is supposed to bring is functional and that nothing else has been affected. We want to prevent any regression with a new deployment of a release in a local platform.
 
 #### System administration
 
-This role includes all what relates to the management of the servers: making sure the platform is un and running, intervene in case there is an issues, etc. We have organized a global sys admin team to make sure we can intervene quickly in case a server is down and a local OFN platform is unaccessible.
+This role includes all what relates to the management of the servers: making sure the platform is up and running, intervene in case there is an issue, etc. We have organized a global sys admin team to make sure we can intervene quickly in case a server is down and a local OFN platform is unaccessible.
 
 #### Product owner
 
-This role makes the interface between the users and the developers. It receives the request of the users, analyse the needs, brainstorm with users and devs about potential solutions, and when a solution has been collectively chosen, make sure what is developed answer the original need once finished. It is also in charge to curate the massive amount of needs reported by users, so contribute to driving the prioritization process, and find ways to communicate that process to users to mitigate their frustration.
+This role makes the interface between the users and the developers. It receives the request of the users, analyses the needs, brainstorms with users and developers about potential solutions, and when a solution has been collectively chosen, makes sure what is developed answers the original need once finished. It is also in charge to curate the massive amount of needs reported by users, so contribute to driving the prioritization process, and find ways to communicate that process to users to mitigate their frustration.
 
 #### Train Driver
 
-This role is more a "pipe coordination" role. When the product team has agreed on the next things to develop, the train driver will make sure the developments are moving forward and fixes and features are delivered on a regular pace, and nothing get stuck.
+This role is more a "pipe coordination" role. When the product team has agreed on the next things to develop, the train driver will make sure the developments are moving forward and fixes and features are delivered on a regular pace, and nothing gets stuck.
 
 #### Documentation
 
@@ -116,7 +116,7 @@ In an open source community, documentation is key not only for the software, but
 
 #### Fundraising
 
-This role is all about finding money for the roles that are specific to the globa level : software and sector development resources development, global communication and community building and facilitation. We aim at doing more global fundraising as we believe that what our global community develop can really make a difference.
+This role is all about finding money for the roles that are specific to the globa level: software and sector development resources development, global communication and community building and facilitation. We aim at doing more global fundraising as we believe that what our global community develops can really make a difference.
 
 #### Financial management
 

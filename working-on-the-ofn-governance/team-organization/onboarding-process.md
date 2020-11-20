@@ -4,13 +4,13 @@
 
 Applicants for the [Senior Dev role currently being advertised in Australia](https://about.openfoodnetwork.org.au/wp-content/uploads/2020/04/OFNAU-Software-Dev-April2020.pdf) were fast-tracked through the process described below and we are excited to welcome 2 new people to the team. 
 
-We are revising and evolving the fast-track process as we anticipate / hope that funding will enable us to hire more people in coming months. However, the first 'port of call' for new hires will always be those who have set themselves up and demonstrated value and culture-fit through the process outlined below. 
+We are revising and evolving the fast-track process as we anticipate/hope that funding will enable us to hire more people in coming months. However, the first 'port of call' for new hires will always be those who have set themselves up and demonstrated value and culture-fit through the process outlined below. 
 
 So if you're interested in working with us, make yourself known :\)
 
 _To apply you need to you demonstrate your capabilities and communication skills in real time by picking up a few issues with the label ‘AU’_ [_from this project_](https://github.com/openfoodfoundation/openfoodnetwork/projects/27) _that will best demonstrate your skills, and working them through the delivery process, interacting with the team as you go. The bonus is that you get to see whether this is a project and team that fits what you’re looking for, too._
 
-If you are doing this with a clear view / preference to future paid work, please send a direct message to @danielle and @maikel on the [Open Food Network Slack workspace](https://openfoodnetwork.org/slack-invite) so we can note your interest amongst the various contributors who pop up on the repo, and we can help speed up the process of getting your PRs reviewed, tested and merged.
+If you are doing this with a clear view/preference to future paid work, please send a direct message to @danielle and @maikel on the [Open Food Network Slack workspace](https://openfoodnetwork.org/slack-invite) so we can note your interest amongst the various contributors who pop up on the repo, and we can help speed up the process of getting your PRs reviewed, tested and merged.
 
 ## Open Food Network - 'normal' on-boarding process
 
@@ -28,19 +28,19 @@ When a new contributor is interested by the project, **the first step is to star
 
 * to enable the contributor to understand from inside what it is to work in OFN and see if that’s what they want
 * to enable them to get to a point where they can start to create real value for the project \(which would justify being paid if they desire and if we can afford it\)
-* to enable the rest of the team to gauge if skills fit to what the project need, in term both of technical \(coding abilities for instance\) and social \(communication abilities\) skills. 
+* to enable the rest of the team to gauge if skills fit to what the project needs, in term both of technical \(coding abilities for instance\) and social \(communication abilities\) skills. 
 
 So **any new developer for instance needs to start picking some issues and committing some first PRs**. For non-dev you can[ join our Slack](https://openfoodnetwork.slack.com) and we'll be happy to discuss with you what you could do to help out depending on your skills and what you would like to do.
 
 ## 2- Certified regular contributors
 
 After that, a contributor who wants to be paid in order to be able to really invest time on the project can request to be certified. When they are, they will be able to invoice contributions \([under conditions defined here](global-rates-table.md)\).  
-To be certified, the contributor must meet three conditions:
+To be certified, the contributor must meet four conditions:
 
 * **Have the technical skills required for the tasks he aims to do** In order to make sure that they deliver real value for the time paid for. The other certified contributors working on the same field can gauge that based on the first contributions of the certification applicant. If they think some important tech skills are missing, they can orient the contributor to some Github issues, or tasks, where they will be able to learn the missing crucial skills. We also highly encourage developers to do code review on PR they didn't commit themselves.
 * **Have the communication skills required** In order to make sure that no paid time is spent in inefficiencies due to lack of communication, and ensure a global consistency of the team and processes. That means he has to be part of the Slack conversations in the appropriate channels \(\#dev for instance for developers\), reply to questions on Github in a reasonable set of time, give feedbacks and review to other contributors, ask questions as soon as something is not clear to get a consent from other contributors on how to solve an issue, participate to speccing sessions, etc.
 * **Have a functional understanding of the platform, knowing the main use cases** In order to make sure no time is lost due to lack of understanding and best approach is adopted.
-* **Dedicate at least one full day per week on the project** In order to make sure that the certified contributors are committed and engaged, and that if they take an issue /task they are going to deliver quickly and don’t block the processes. It doesn’t have to be every week the same day, and can be like 2 half days for instance.
+* **Dedicate at least one full day per week on the project** In order to make sure that the certified contributors are committed and engaged, and that if they take an issue/task they are going to deliver quickly and don’t block the processes. It doesn’t have to be every week the same day, and can be like 2 half days for instance.
 
 ## 3- Certified occasional contributors
 

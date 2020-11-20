@@ -8,7 +8,7 @@ The mission of this community is to build shared digital infrastructure and shar
 
 ### The OFN software
 
-In practice, the software and platforms deployed with this software enables producers to manage their product catalogue and share them with multiple distributors \(food hubs\). Hubs can connect with one or multiple producers to list their products in a shop and organize collective sales, and get aggregated data to organize logistics and fulfil bulk or individual orders.
+In practice, the software and platforms deployed with this software enable producers to manage their product catalogue and share them with multiple distributors \(food hubs\). Hubs can connect with one or multiple producers to list their products in a shop and organize collective sales, and get aggregated data to organize logistics and fulfil bulk or individual orders.
 
 In OFN, a hub can be many different things, including:  
 - a producer selling directly to consumers through an online shop  
@@ -17,16 +17,16 @@ In OFN, a hub can be many different things, including:
 
 ### Sector development products
 
-The OFN community is in contact everyday with lots of food hubs, organized around diverse operational, economics, and logistics models. And food hubs need more than just a software tool to be efficient, and replicate. So we are building various products to support the development of the local and regenerative food sector : 
+The OFN community is in contact everyday with lots of food hubs, organized around diverse operational, economics, and logistics models. And food hubs need more than just a software tool to be efficient, and replicate. So we are building various products to support the development of the local and regenerative food sector: 
 
-* article, reports and other deliverable from research programs and food system analysis
-* trainings material
+* articles, reports and other deliverables from research programs and food system analysis
+* training material
 * marketing tools and guidelines
 * support materials and guidelines for existing food hubs and social entrepreneurs
 
 ## The OFN services
 
-All those products are open source, but as a community, we propose services around those various products, through local democratically run multi-stakeholders cooperatives and collectives \(the local OFN entities\): Saas services based on the OFN software, consulting and trainings based on the sector development products, etc. This is the basis of our economic and governance models :-\)
+All those products are open source, but as a community, we propose services around those various products, through local democratically run multi-stakeholders cooperatives and collectives \(the local OFN entities\): Saas services based on the OFN software, consulting and trainings based on the sector development products, etc. This is the basis of our economic and governance models. :-\)
 
 
 

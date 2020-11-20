@@ -7,7 +7,7 @@ The OFN global team is composed of:
 
 Among those contributors, some are occasional contributors, and other work on a daily basis on the OFN project and are called "**the core certified team**".
 
-The processes below explain how new contributors join and exit the core team, and how and how much they are paid.
+The processes below explain how new contributors join and exit the core team, and how much they are paid.
 
 For developers, this process has been specified with some technical commitments [on this wiki page](https://github.com/openfoodfoundation/openfoodnetwork/wiki/Pipeline-development-process).
 

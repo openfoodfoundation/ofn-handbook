@@ -4,7 +4,7 @@ We have not yet properly defined the graphical charter of the OFN, but we can al
 
 ### Fonts and color codes
 
-You'll find on that document all about the fonts and colors we use for our local branding and as shared communication guildelines. If you want to suggest any improvement please let us know on Slack or on the community forum, else please use them in your communication so we try to build a consistent brand and image !
+You'll find on that document all about the fonts and colors we use for our local branding and as shared communication guidelines. If you want to suggest any improvement please let us know on Slack or on the community forum, else please use them in your communication so we try to build a consistent brand and image!
 
 ![OFN styleguide overview](../.gitbook/assets/ofn-styleguide-overview-20190611-page-001.jpg)
 

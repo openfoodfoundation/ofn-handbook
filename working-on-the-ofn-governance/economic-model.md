@@ -16,7 +16,7 @@ At the global level, there are people working in the global team on:
 
 On top of people wages, we also need to pay for some tools at the global level, like Toggl that we use for time tracking, or Matomo that we use for traffic analysis on all the local websites. We also cover some expenses linked to the global gatherings we organise once or twice a year since 2017.
 
-Taking all that into account, we need probably around 400K€ at a very minimum every year for our project to move forward at a reasonable pace. That means 300K€ for the global product development team \(we counted 3 devs 3 days per week + for each day of dev, 1/3 day testing, 1/3 day UX and 2/3 days product owner and train drivers\) + 100K€ for the other roles and costs altogether.
+Taking all that into account, we need probably around 400 k€ at a very minimum every year for our project to move forward at a reasonable pace. That means 300 k€ for the global product development team \(we counted 3 devs 3 days per week + for each day of dev, 1/3 day testing, 1/3 day UX and 2/3 days product owner and train drivers\) + 100 k€ for the other roles and costs altogether.
 
 ### Our global revenues
 
