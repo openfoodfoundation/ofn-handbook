@@ -1,8 +1,8 @@
 # Brainstorm solutions and choose one
 
-When we have some space in the delivery pipe and decide to feed it with a new feature that we have collectively agreed to prioritize, we need to organize brainstormings about the potential solutions that could enable us to satisfy the top prioritized needs. Probably, this will have started already when specifying the need, as people will start with solutions instead of needs ;-\) But we need to do some proper brainstorming to open our mind and not get stuck with the first solution that came to our mind. And make sure what is going to enter the delivery pipe is clear.
+When we have some space in the delivery pipe and decide to feed it with a new feature that we have collectively agreed to prioritize, we need to organize brainstormings about the potential solutions that could enable us to satisfy the top prioritized needs. Probably, this will have started already when specifying the need, as people will start with solutions instead of needs. ;-\) But we need to do some proper brainstorming to open our mind and not get stuck with the first solution that came to our mind. And make sure what is going to enter the delivery pipe is clear.
 
-**Every need will be assigned to a "product owner", and when a feature candidate has been selected, this feature candidate will be assigned to a "product owner" AND a "tech owner"**. They are responsible to organize the solution discovery and inception process, that will go through the following steps. You can see the[ corresponding template here.](https://docs.google.com/document/d/1n6vvwH3KAyx839Q_sfW6sW3Cs49ZjFBqi8Nzatmg7As/edit?usp=sharing)
+**Every need will be assigned to a "product owner", and when a feature candidate has been selected, this feature candidate will be assigned to a "product owner" AND a "tech owner"**. They are responsible to organize the solution discovery and inception process, that will go through the following steps. You can see the[ corresponding template here](https://docs.google.com/document/d/1n6vvwH3KAyx839Q_sfW6sW3Cs49ZjFBqi8Nzatmg7As/edit?usp=sharing).
 
 ### 1- Brainstorm potential solutions to meet the need
 
