@@ -8,21 +8,21 @@ There are many different ways to contribute to the OFN project. Inspired by the 
 
 #### Super administration of the OFN platform
 
-This role includes all what relates to setting up the localized version of the platform: translation in local language, VAT setup, taxonomy setup, local links, setting up a local user guide, etc. We have setup a [specific guide for super-admin](https://ofn-user-guide.gitbook.io/ofn-super-admin-guide/) to support you in your role! Check-it out :-\)
+This role includes all what relates to setting up the localized version of the platform: translation in local language, VAT setup, taxonomy setup, local links, setting up a local user guide, etc. We have setup a [specific guide for super-admin](https://ofn-user-guide.gitbook.io/ofn-super-admin-guide/) to support you in your role ! Check-it out :-\)
 
 #### User support
 
-This role includes: reporting bugs on [github](https://github.com/openfoodfoundation/openfoodnetwork/issues), curating needs that emerge from the community and report them in the community [wishlist ](https://github.com/openfoodfoundation/wishlist)\(which is curated by the Product Owners of the global team - see below\)
+This role includes: reporting bugs on [github](https://github.com/openfoodfoundation/openfoodnetwork/issues), curating needs that emerge from the community and report them in the community forum [wishlist](https://community.openfoodnetwork.org/c/software-impovement) \(which is curated by the Product Owners of the global team - see below\)
 
 #### System administration
 
-This role includes all what relates to the management of the servers: making sure the platform is up and running, intervene in case there is an issues, etc. This role is now more and more mutualized at the global level, but some affiliates still have local resources to fulfill that role.
+This role includes all what relates to the management of the servers: making sure the platform is up and running, intervene in case there is an issues, etc. This role is now more and more mutualized at the global level, but some affiliates still have local ressources to fulfil that role.
 
 ### Contributing to sector development
 
 #### Training and consulting services
 
-This role means mainly building training offers and organize sessions for your local community of existing and potential food hubs and other community food enterprise. And/or offer consulting services to support establishment of new food hubs, or increased performance of existing ones. It can be for example a training or consulting on marketing or logistic strategy, including potentially some integration with the OFN local platform to setup automated emailing campaigns, etc.
+This role means mainly building training offers and organize sessions for your local community of existing and potential food hubs and other community food enterprise. And/or offer consulting services to support establishement of new food hubs, or increased performance of existing ones. It can be for example a training or consulting on marketing or logistic strategy, including potentially some integration with the OFN local platform to setup automated emailing campaigns, etc.
 
 #### Research
 
@@ -94,21 +94,21 @@ This role is all about building and contributing to research projects, writing a
 
 #### Building and sharing hub management tools and guidelines
 
-Knowledge is a non rival common, it can be shared without being lost. This role is all about creating content, building and sharing knowledge about how food hubs can be run efficiently, in order to support the development of the sector. These resources can then be used by local affiliate to build training and consulting services. To be more concrete, these resources can be marketing guidelines, business models, logistics models, legal models, organizational models, etc.
+Knowledge is a non rival common, it can be shared without being lost. This role is all about creating content, building and sharing knowledge about how food hubs can be run efficiently, in order to support the development of the sector. These ressources can then be used by local affiliate to build training and consulting services. To be more concrete, these ressources can be marketing guidelines, business models, logistics models, legal models, organizational models, etc.
 
 #### Building and sharing training, consulting and incubation material
 
-In complement to the precedent role, this role is about sharing training materials, so training and incubation programs, consulting services, so that local affiliates can build on each other and enrich each other's reflections.
+In complement to the precedent role, this role is about sharing training materials, so training and incubation programs, consulting services, so that local affiliates can build on each other and enrich each other's reflexions.
 
 ### Managing and developing the OFN community
 
 #### Community building and facilitation
 
-At global level as well, we need to facilitate the community of local affiliate managers, and welcome and support the development of new OFN affiliates in the world. So concretly, this role includes support to people who want to develop new OFN communities and entities worldwide, answering community forum posts and Slack messages, making sure new comers are filling welcomed, etc. It also include facilitation processes to organise collective decision making at global level, on priorization for instance, or opening and holding spaces to discuss about tensions people might feel. Welcoming and onboarding can be on non technical dimensions \(support building the team and learn facilitation\) or on technical dimensions \(support people who try to deploy the software\).
+At global level as well, we need to faciliate the community of local affiliate managers, and welcome and support the development of new OFN affiliates in the world. So concretly, this role includes support to people who want to develop new OFN communities and entities worldwide, answering community forum posts and Slack messages, making sure new comers are filling welcomed, etc. It also include facilitation processes to organise collective decision making at global level, on priorization for instance, or opening and holding spaces to discuss about tensions people might feel. Welcoming and onboarding can be on non technical dimensions \(support building the team and learn facilitation\) or on technical dimensions \(support people who try to deploy the software\).
 
 #### Communication
 
-This role is about building a consistent global image for the Open Food Network project. It includes external communiation: website, social media, and internal communication: documenting our processes \(like writting and keeping up to date those gitbooks!\)
+This role is about building a consistent global image for the Open Food Network project. It includes external communiation: website, social media, and internal communiation: documenting our processes \(like writting and keeping up to date those gitbooks!\)
 
 #### Documentation
 
@@ -120,11 +120,11 @@ This role is all about finding money for the roles that are specific to the glob
 
 #### Financial management
 
-This role is about managing a distributed global budget. Local affiliates do all contribute to global pot to finance the operation of the global team, ongoing development of the sofware, communication, etc. But we have no global organization neither global bank account today, and it wouldn't make sense to transfer money across currency zones all the time and pay the attached fees. So we currently manage 4 "global wallets" in different countries where affiliates can transfer their contribution to finance the global level of the commons. We track expenses for the global level and manage cashlow and treasury through this [open budget spreadsheet](https://docs.google.com/spreadsheets/d/1EjDgQOGMAePgyvWv8gyIPgLPnvieWoWXO0bUzkz4pPA/edit?usp=sharing). Still WIP, so sorry if this is still very messy !
+This role is about managing a distributed global budget. Local affiliates do all contribute to global pot to finance the operation of the global team, ongoing development of the sofware, communication, etc. But we have no global organization neither global bank account today, and it wouldn't make sense to transfer money accross currency zones all the time and pay the attached fees. So we currently manage 4 "global wallets" in different countries where affiliates can transfer their contribution to finance the global level of the commons. We track expenses for the global level and manage cashlow and treasury through this [open budget spreadsheet](https://docs.google.com/spreadsheets/d/1EjDgQOGMAePgyvWv8gyIPgLPnvieWoWXO0bUzkz4pPA/edit?usp=sharing). Still WIP, so sorry if this is still very messy !
 
 #### Human organization
 
-As a distributed organization trying to maximise empowerment and participation of every contributors in decision making processes, we have no formal coercive hierarchy, but a more fluid, agile, open and contributive dynamic of powers, supported by various processes. This role is about supporting onboarding of new contributors and making sure everyone is happy. It means opening and holding spaces when tensions need to be expressed and facilite an agile evolution of our processes.
+As a distributed organization trying to maximise empowerment and participation of every contributors in decision making processes, we have no formal coercive hierchy, but a more fluid, agile, open and contributive dynamic of powers, supported by various processes. This role is about supporting onboarding of new contributors and making sure everyone is happy. It means opening and holding spaces when tensions need to be expressed and facilite an agile evolution of our processes.
 
 
 
