@@ -22,17 +22,9 @@ Taking all that into account, we need probably around 400 k€ at a very minimum
 
 Revenues at global level only comes until now from local entities having found grants and fuel back money into developing the OFN software. Local instances need to build sustainable business models and not rely on grants, but **global level will always be financed by local entities contributing in financing the improvement of the shared global commons they use**.
 
-What global level ask to local instances:  
-  
-**1. Demonstrable Commitment to the Commons**  
-This might come in the form of the contributions of funds to the global fundraising effort. It might come in the form of significant contributions to the commons knowledge base include the code, documentation, facilitation and governance. We expect instances to:
+Ideally, our target would be that local OFN entities give back at least 40% of their revenue to co-finance platform improvement. Development costs are huge in a tech company, and we need a consequent cashflow to maintain our commons. For now we have not yet formalised a % that every local instance should allocate to financing the global commons, but we all want to make it work.
 
-* Participate in fundraising for OFN global by having a representative in the fundraising-circle
-* Contribute 40% of their revenue or 40% of their time to global efforts, though this can fluctuate and can be commensurate to circumstance.
-
-**2. Demonstrable Growth**
-
-This is to demonstrate active local community and instance building efforts. If your user community and platform turnover are increasing this is a sign that your plans are working.
+![](../.gitbook/assets/cofinance-english-1.jpg)
 
 ### Managing global budget and expenses
 
