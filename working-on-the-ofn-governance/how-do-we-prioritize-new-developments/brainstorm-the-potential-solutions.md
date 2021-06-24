@@ -2,7 +2,7 @@
 
 When we have some space in the delivery pipe and decide to feed it with a new feature that we have collectively agreed to prioritize, we need to organize brainstormings about the potential solutions that could enable us to satisfy the top prioritized needs. Probably, this will have started already when specifying the need, as people will start with solutions instead of needs. ;-\) But we need to do some proper brainstorming to open our mind and not get stuck with the first solution that came to our mind. And make sure what is going to enter the delivery pipe is clear.
 
-**Every need will be assigned to a "product owner", and when a feature candidate has been selected, this feature candidate will be assigned to a "product owner" AND a "tech owner"**. They are responsible to organize the solution discovery and inception process, that will go through the following steps. 
+**Every need will be assigned to a "product owner", and when a feature candidate has been selected, this feature candidate will be assigned to a "product owner" AND a "tech owner"**. They are responsible to organize the solution discovery and inception process, that will go through the following steps. You can see the[ corresponding template here](https://docs.google.com/document/d/1n6vvwH3KAyx839Q_sfW6sW3Cs49ZjFBqi8Nzatmg7As/edit?usp=sharing).
 
 ### 1- Brainstorm potential solutions to meet the need
 
@@ -12,9 +12,9 @@ That means listing all the possible solutions to answer the need. Those potentia
 
 For each potential solution, we evaluate the easyness level and value level, and map the feature candidates in a **value/ease matrix.** Having a tech prospective is important here as product people won't know how hard it is to implement feature candidate A or B. So product owner needs to make sure she includes tech in that work.
 
-That will help us choose the feature candidate that enable us to get enough value to meet the need, and that will request the less work for that. Basically we will tend to choose a feature candidate that add the more value regarding the need, and enough value for the need to be met, at the lower cost possible. 
+That will help us choose the feature candidate that enable us to get enough value to meet the need, and that will request the less work for that. Basically we will tend to choose a feature candidate that add the more value regarding the need, and enough value for the need to be met, at the lower cost possible. This feature candidate is then called **"selected feature candidate"**.
 
-When a feature candidate has been selected and prioritized, the "product owner" for the need is in charge of **opening an epic on Github**. When the delivery circle decides the feature is ready to be added to the pipe, they will move it to the "dev ready" column, at the right level of priority.
+When a feature candidate has been selected and prioritized, the "product owner" for the need is in charge of **opening an epic on Github and add it to the "**[**product feature backlog**](https://github.com/openfoodfoundation/openfoodnetwork/projects/19)**" project board in the "backlog" column**. When the delivery pipe standup meeting decides to enter the feature in the pipe, they will move it to the "dev ready" column, at the right level of priority, and assign a "tech owner" to that feature, depending on the availablility of the developers at that moment.
 
 This epic needs to encompass:  
 - reminder of the overaching unmet need \(can add link to the need description and solution discovery session\)  
