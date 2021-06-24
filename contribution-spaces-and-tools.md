@@ -10,7 +10,9 @@ This document is intended to help instance managers and OFN contributors to find
 
 Over the years we’ve collected and collated instructions for almost every task you can imagine within OFN.
 
-[Our User Guide](https://guide.openfoodnetwork.org/) contains detailed instructions and pictures for enterprises using OFN. It is a great resource when getting your head around the functionality and can also be shared with users directly.
+[Our User Guide](https://guide.openfoodnetwork.org/) contains detailed instructions and pictures for enterprises using OFN. It is a great resource when getting your head around the functionality and can also be shared with users directly.  
+  
+Our [testing guide](https://ofn-user-guide.gitbook.io/ofn-testing-handbook/) contains all details on how we test our software.
 
 The [OFN Handbook](https://ofn-user-guide.gitbook.io/ofn-handbook/) is our single point of truth about the processes currently applied in the community. It is a support for anyone who wants to understand what is OFN and how we are organized as a community.
 
@@ -25,8 +27,6 @@ The [OFN Github Wiki](https://github.com/openfoodfoundation/openfoodnetwork/wiki
 The [global OFN community](http://community.openfoodnetwork.org) uses this forum as a key communication tool to help us understand and organise our work.
 
 The [Using OFN](https://community.openfoodnetwork.org/c/using-ofn) category is a great place to share your learning and understand as you find your way through OFN. If you get stuck on something and figure out a good solution it really helps the community to post your solution here such that it is easy for other people to find in the future. It can also help you to explore different solutions and brainstorm with the wider community.
-
-The [Software Improvement](https://community.openfoodnetwork.org/c/software-impovement) category is the place where we manage the prioritisation of the future improvements to the platform. If you would like to propose a potential improvement do this in the Wishlist category. We can then work together to get this ready for the community voting process.
 
 The research community in OFN use the [Research category.](https://community.openfoodnetwork.org/c/research)
 
@@ -90,8 +90,6 @@ If you are interested in understanding how our [delivery pipe works visit this p
 If you are interested in contributing to [OFN visit this page.](https://ofn-user-guide.gitbook.io/ofn-handbook/working-on-the-ofn-governance/team-organization/onboarding-process)
 
 If you are interested in getting set up as an [OFN developer visit this wiki.](https://github.com/openfoodfoundation/openfoodnetwork/wiki)
-
-If you are looking for more info on [OFN Feature Testing visit this page](https://github.com/openfoodfoundation/openfoodnetwork/wiki/Feature-Testing-Handbook).
 
 And, of course, if you are interested in becoming part of the community [Contact Us](https://ofn-user-guide.gitbook.io/ofn-handbook/contact-us)!
 
