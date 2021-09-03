@@ -1,6 +1,6 @@
 # Incept the solution and implement it
 
-Once a feature answering an unmet need has entered the delivery pipe, the product and tech owners can then organize the inception and implementation of that feature.
+Once a feature answering an unmet need has entered the inception pipe, the product and tech owners can then organize the inception and implementation of that feature.
 
 ### 1- Incept the selected solution
 
