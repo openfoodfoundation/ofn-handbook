@@ -17,11 +17,25 @@ Lots of OFN users in different countries have different needs. So how to decide 
 Each instance will have their way to discuss with their users and decide together with them what are the top priorities for that instance. We have experimented voting on feature but this process did not really lead to spot the features that we really needed to do first.  
 **We are currently reviewing this system.**
 
-The current prioritized pipe can then be seen in Github but also in our community forum. Once a week the delivery circle will issue notes that keep everyone updated of where things are.
+The current prioritized pipe can then be seen in Github but also in our community forum. Once a week the delivery circle will issue notes in the community forum that keep everyone updated of where things are.
 
 ### 3- About "emergency needs"
 
 Some users sometimes express their need as an "emergency need". We invite instance managers to question why it is an emergency. **In OFN we consider as emergencies only bug severity 1 and 2 that really prevent users to use the platform**. For a new need not yet satisfied, if you do consider it an emergency, you can create a topic on our community forum to discuss it.
 
-\*\*\*\*
+### 4. - Papercuts
+
+A Papercut is a tiny issue - usually UI or UX - that is never a high priority but causes lots of pain to users. It might be a small bug or a missing bit of UI. It might be issues we tend to always hear about from users but do not have direct implications on the actual functionality and thus never make it into the priority list. It might be things that we look at and think “Ergh is this still not fixed?” or “%^&\* that is SO ANNOYING”. We might have been looking at it for years.
+
+We want to fix some of these so that we start bringing real joy to our users. Fixing Papercuts is designed to bring sparkles in a world that often has few.
+
+A successful Papercut \(that can be considered for development\) is an issue where:
+
+* The dev work required will take less than 1/2 day to complete
+* The solution is obvious and widely supported - if there is uncertainty, outstanding differing opinions, or takes more than 5 mins discussion to agree on what is being done, it will be _rejected_ as a papercut
+* The issue is clearly specified
+
+The papercut team meets every first Wednesday of the month, in order to review the wishlist and assess what can be considered as a papercut.  
+  
+Confirmed papercut are labeled as such in the wishlist repository and are available to core instances for selection at a regular pace \(as soon as all papercuts where delivered, someone from the papercut team launches a new round of papercut selection\).
 
