@@ -16,7 +16,7 @@ When a new contributor is interested by the project, **the first step is to star
 * to enable them to get to a point where they can start to create real value for the project \(which would justify being paid if they desire and if we can afford it\)
 * to enable the rest of the team to gauge if skills fit to what the project needs, in term both of technical \(coding abilities for instance\) and social \(communication abilities\) skills. 
 
-So **any new developer for instance needs to start picking some issues and committing some first PRs**. For non-dev you can[ join our Slack](https://openfoodnetwork.slack.com) and we'll be happy to discuss with you what you could do to help out depending on your skills and what you would like to do.
+So **any new developer for instance needs to start picking some issues and committing some first PRs**. For non-dev you are encouraged to join the open community forum at [community.openfoodnetwork.org](https://community.openfoodnetwork.org). We'll be happy to discuss with you what you could do to help out depending on your skills and what you would like to do. A welcoming guide thread to start and say hello in is available [here](https://community.openfoodnetwork.org/t/everything-you-need-to-know-about-the-open-food-network-community/8). The forum is asynchronous and works like a newsletter so you do not spend time scrolling in order to catch up. You can also join our real-time chat [Slack](https://openfoodnetwork.slack.com) with the risk that you most probably will miss out on stuff if you are not an avid user often online on the Slack app.
 
 ## 2- Certified regular contributors
 
